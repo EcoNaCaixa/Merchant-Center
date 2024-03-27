@@ -11,7 +11,7 @@ load_dotenv()
 YOTPO_ACCESS_TOKEN = os.getenv('YOTPO_ACCESS_TOKEN')
 YOTPO_KEY = os.getenv('YOTPO_KEY')
 YOTPO_SECRET_KEY = os.getenv('YOTPO_SECRET_KEY')
-X_Shopify_Access_Token = os.getenv("X-Shopify-Access-Token")
+X_Shopify_Access_Token = os.getenv("X_Shopify_Access_Token")
 
 import requests
 
