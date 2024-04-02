@@ -3,7 +3,6 @@ import os
 import time
 import xml.etree.ElementTree as ET
 import requests
-from xmlschema import XMLSchema
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -20,8 +19,8 @@ def get_all_products_shopify():
     url = f"https://sofanacaixa.myshopify.com/admin/api/2024-01/products.json?limit=250"
     headers = {"X-Shopify-Access-Token": SHOPIFY_API_TOKEN}
     r = requests.get(url, headers=headers)
-    print(json.dumps(r.json(), indent=4))
     return r.json()
+
 
 def gerar_feed_xml(nome_arquivo, produtos):
     """ Gera um feed XML para o Google Merchant"""
@@ -30,12 +29,20 @@ def gerar_feed_xml(nome_arquivo, produtos):
     channel = ET.SubElement(root, "channel")
 
     for produto in produtos['products']:
-        variant_id = produto['variants'][0]['id']
-        preco_desconto = round(float(produto['variants'][0]['price']) * 0.95, 2)
-
+        variant = produto['variants'][0]
+        preco_original = variant['compare_at_price']
+        preco_desconto = round(float(variant['price']) * 0.95, 2)
+        
         item = ET.SubElement(channel, "item")
-        ET.SubElement(item, "g:id").text = f"shopify_BR_{produto['id']}_{variant_id}"
-        ET.SubElement(item, "g:price").text = f"{str(preco_desconto)} BRL"       
+        ET.SubElement(item, "g:id").text = f"shopify_BR_{produto['id']}_{variant['id']}"
+        ET.SubElement(item, "g:price").text = f"{preco_original} BRL"
+        ET.SubElement(item, "g:sale_price").text = f"{preco_desconto:.2f} BRL"
+        
+        # Adicionando informações de atualização de preço
+        update_date = time.strftime('%Y-%m-%dT%H:%M:%SZ', time.gmtime())
+        ET.SubElement(item, "g:sale_price_effective_date").text = f"{update_date}/"
+        ET.SubElement(item, "g:brand").text = "Sofá na Caixa"
+        ET.SubElement(item, "g:mpn").text = variant['sku']
     
     tree = ET.ElementTree(root)
     tree.write(nome_arquivo, encoding='utf-8', xml_declaration=True)
