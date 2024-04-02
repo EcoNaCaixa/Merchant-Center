@@ -38,9 +38,6 @@ def gerar_feed_xml(nome_arquivo, produtos):
         ET.SubElement(item, "g:price").text = f"{preco_original} BRL"
         ET.SubElement(item, "g:sale_price").text = f"{preco_desconto:.2f} BRL"
         
-        # Adicionando informações de atualização de preço
-        update_date = time.strftime('%Y-%m-%dT%H:%M:%SZ', time.gmtime())
-        ET.SubElement(item, "g:sale_price_effective_date").text = f"{update_date}/"
         ET.SubElement(item, "g:brand").text = "Sofá na Caixa"
         ET.SubElement(item, "g:mpn").text = variant['sku']
     
