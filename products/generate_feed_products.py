@@ -35,7 +35,7 @@ def gerar_feed_xml(nome_arquivo, produtos):
 
         item = ET.SubElement(channel, "item")
         ET.SubElement(item, "g:id").text = f"shopify_BR_{produto['id']}_{variant_id}"
-        ET.SubElement(item, "g:price").text = str(preco_desconto)        
+        ET.SubElement(item, "g:price").text = f"{str(preco_desconto)} BRL"       
     
     tree = ET.ElementTree(root)
     tree.write(nome_arquivo, encoding='utf-8', xml_declaration=True)
