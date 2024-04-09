@@ -1,3 +1,4 @@
+import datetime
 import json
 import os
 import time
@@ -21,6 +22,18 @@ def get_all_products_shopify():
     r = requests.get(url, headers=headers)
     return r.json()
 
+def get_date():
+    # Obtém a data atual
+    data_atual = datetime.datetime.now()
+
+    # Adiciona 5 dias
+    data_nova = data_atual + datetime.timedelta(days=15)
+
+    # Formata a nova data
+    data_nova_formatada = data_nova.strftime('%Y-%m-%dT%H:%M:%S')
+
+    return data_nova_formatada
+
 
 def gerar_feed_xml(nome_arquivo, produtos):
     """ Gera um feed XML para o Google Merchant"""
@@ -38,8 +51,12 @@ def gerar_feed_xml(nome_arquivo, produtos):
         ET.SubElement(item, "g:price").text = f"{preco_original} BRL"
         ET.SubElement(item, "g:sale_price").text = f"{preco_desconto:.2f} BRL"
         
-        ET.SubElement(item, "g:brand").text = "Sofá na Caixa"
-        ET.SubElement(item, "g:mpn").text = variant['sku']
+        if variant['sku']:
+            data_atual_str = datetime.datetime.now().strftime('%Y-%m-%dT%H:%M:%S')
+            data_final_str = get_date()
+            ET.SubElement(item, "g:sale_price_effective_date").text = f"{data_atual_str}-0800/{data_final_str}-0800"  # Sale price effective date
+            ET.SubElement(item, "g:brand").text = "Sofá na Caixa"
+            ET.SubElement(item, "g:mpn").text = variant['sku']
     
     tree = ET.ElementTree(root)
     tree.write(nome_arquivo, encoding='utf-8', xml_declaration=True)
