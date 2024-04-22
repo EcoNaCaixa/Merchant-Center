@@ -8,6 +8,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
+
 SHOPIFY_API_TOKEN = os.getenv("SHOPIFY_API_TOKEN")
 
 
@@ -20,7 +21,6 @@ def get_all_products_shopify():
     url = f"https://sofanacaixa.myshopify.com/admin/api/2024-01/products.json?limit=250"
     headers = {"X-Shopify-Access-Token": SHOPIFY_API_TOKEN}
     r = requests.get(url, headers=headers)
-    print(f"Produtos: {len(r.json()['products'])}")
 
     return r.json()
 
@@ -30,22 +30,75 @@ def get_date():
     data_nova_formatada = data_nova.strftime('%Y-%m-%dT%H:%M:%S')
     return data_nova_formatada
 
+
+def get_product_group_id(product_id):
+    """ Retorna o ID do grupo de produtos
+    
+    Args:
+        product (dict): Dicionário de um produto
+    
+    Returns:
+        str: ID do grupo de produtos """
+    
+    headers = {"X-Shopify-Access-Token": SHOPIFY_API_TOKEN}
+    url = f"https://sofanacaixa.myshopify.com/admin/api/2024-01/products/{product_id}/metafields.json?key=google_merchant_group_id"
+    try:
+        r = requests.get(url, headers=headers)
+        return r.json()['metafields'][0]['value']
+    except Exception as e:
+        print(f"Erro ao buscar group_id: {e}")
+        return '0'
+    
+def get_product_images(product):
+    """ Retorna as imagens de um produto 
+    
+    Args:
+        product (dict): Dicionário de um produto
+    
+    Returns:
+        list: Lista de imagens de um produto """
+    
+    images = []
+    for image in product['images']:
+        images.append(image['src'])
+    return ', '.join(images)
+    
+def get_product_reviews_count(product_id):
+    headers = {"X-Shopify-Access-Token": SHOPIFY_API_TOKEN}
+    url = f"https://sofanacaixa.myshopify.com/admin/api/2024-01/products/{product_id}/metafields.json?key=reviews_average"
+    r = requests.get(url, headers=headers)
+    review_data = {}
+    if r.json()['metafields'][0]['value'] == '0':
+        return {
+            'reviews_average': '5',
+            'reviews_count': '25'  
+        }
+    else:
+        review_data['reviews_average'] = r.json()['metafields'][0]['value']
+    
+        url = f"https://sofanacaixa.myshopify.com/admin/api/2024-01/products/{product_id}/metafields.json?key=reviews_count"
+        r = requests.get(url, headers=headers)
+        review_data['reviews_count'] = r.json()['metafields'][0]['value']
+
+        return review_data
+    
+    
 def gerar_feed_xml(nome_arquivo, produtos):
     """ Gera um feed XML para o Google Merchant"""
     root = ET.Element("rss", {'xmlns:g': 'http://base.google.com/ns/1.0'})
     channel = ET.SubElement(root, "channel")
 
     for produto in produtos['products']:
-        print(json.dumps(produto, indent=4))
 
         variants = produto['variants']
         for variant in variants:
-            print(json.dumps(variant, indent=4))
-
             preco_original = variant['compare_at_price']
+            
             preco_desconto = round(float(variant['price']) * 0.95, 2)
+            
             item = ET.SubElement(channel, "item")
-            ET.SubElement(item, "g:id").text = str(produto['id'])
+            
+            ET.SubElement(item, "g:id").text = str(variant['id'])
             ET.SubElement(item, "g:title").text = produto['title']
             ET.SubElement(item, "g:description").text = produto['title']
             ET.SubElement(item, "g:link").text = f"https://sofanacaixa.com.br/products/{produto['handle']}"
@@ -54,9 +107,24 @@ def gerar_feed_xml(nome_arquivo, produtos):
             ET.SubElement(item, "g:price").text = f"{preco_original} BRL"
             ET.SubElement(item, "g:sale_price").text = f"{preco_desconto:.2f} BRL"
 
-            if variant['sku']:
-                ET.SubElement(item, "g:brand").text = "Sofá na Caixa"
-                ET.SubElement(item, "g:mpn").text = variant['sku']
+            # CAMPOS ADICIONAIS
+            ET.SubElement(item, "g:product_type").text = f"House > Furniture > Sofa > Sofa Modular"
+            ET.SubElement(item, "g:additional_image_link").text = get_product_images(produto)
+            
+            reviews = get_product_reviews_count(produto['id'])
+            
+            ET.SubElement(item, "g:average_review_rating").text = reviews.get('reviews_average', 5)
+            ET.SubElement(item, "g:number_of_ratings").text = reviews.get('reviews_count', 25)
+            ET.SubElement(item, "g:number_of_reviews").text = reviews.get('reviews_count', 25)
+            ET.SubElement(item, "g:description_html").text = produto['body_html']
+            ET.SubElement(item, "g:video_link").text = "https://www.youtube.com/watch?v=7sykq-xZWww&t=2s&ab_channel=Sof%C3%A1naCaixa"
+            ET.SubElement(item, "g:group_id").text = get_product_group_id(produto['id'])
+            ET.SubElement(item, "g:brand").text = "Sofá na Caixa"
+            ET.SubElement(item, "g:mpn").text = variant['sku']
+            ET.SubElement(item, "g:size_system").text = 'BRL'
+            ET.SubElement(item, "g:variant_names").text = 'Cor'
+            ET.SubElement(item, "g:variant_values").text = 'Cinza, Linho'
+            ET.SubElement(item, "g:color").text = produto['title'].split('-')[-1].strip()
 
     tree = ET.ElementTree(root)
     tree.write(nome_arquivo, encoding='utf-8', xml_declaration=True)
