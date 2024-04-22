@@ -45,7 +45,7 @@ def get_date():
     data_atual = datetime.datetime.now()
 
     # Adiciona 5 dias
-    data_nova = data_atual + datetime.timedelta(days=15)
+    data_nova = data_atual + datetime.timedelta(days=60)
 
     # Formata a nova data
     data_nova_formatada = data_nova.strftime('%Y-%m-%dT%H:%M:%S')
