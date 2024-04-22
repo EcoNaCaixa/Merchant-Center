@@ -98,7 +98,7 @@ def gerar_feed_xml(nome_arquivo, produtos):
             
             item = ET.SubElement(channel, "item")
             
-            ET.SubElement(item, "g:id").text = str(variant['id'])
+            ET.SubElement(item, "g:id").text = f"shopify_BR_{produto['id']}_{variant['id']}"
             ET.SubElement(item, "g:title").text = produto['title']
             ET.SubElement(item, "g:description").text = produto['title']
             ET.SubElement(item, "g:link").text = f"https://sofanacaixa.com.br/products/{produto['handle']}"
