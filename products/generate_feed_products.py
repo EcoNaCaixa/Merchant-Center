@@ -11,6 +11,24 @@ load_dotenv()
 SHOPIFY_API_TOKEN = os.getenv("SHOPIFY_API_TOKEN")
 
 
+def get_product_group_id(product_id):
+    """ Retorna o ID do grupo de produtos
+    
+    Args:
+        product (dict): Dicionário de um produto
+    
+    Returns:
+        str: ID do grupo de produtos """
+    
+    headers = {"X-Shopify-Access-Token": SHOPIFY_API_TOKEN}
+    url = f"https://sofanacaixa.myshopify.com/admin/api/2024-01/products/{product_id}/metafields.json?key=google_merchant_group_id"
+    try:
+        r = requests.get(url, headers=headers)
+        return r.json()['metafields'][0]['value']
+    except Exception as e:
+        print(f"Erro ao buscar group_id: {e}")
+        return '0'
+    
 def get_all_products_shopify():
     """ Retorna todos os produtos da loja Shopify 
     
@@ -50,6 +68,7 @@ def gerar_feed_xml(nome_arquivo, produtos):
         ET.SubElement(item, "g:id").text = f"shopify_BR_{produto['id']}_{variant['id']}"
         ET.SubElement(item, "g:price").text = f"{preco_original} BRL"
         ET.SubElement(item, "g:sale_price").text = f"{preco_desconto:.2f} BRL"
+        ET.SubElement(item, "g:item_group_id").text = get_product_group_id(product_id=produto['id'])
         
         if variant['sku']:
             data_atual_str = datetime.datetime.now().strftime('%Y-%m-%dT%H:%M:%S')
