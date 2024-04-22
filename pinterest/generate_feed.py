@@ -125,6 +125,8 @@ def gerar_feed_xml(nome_arquivo, produtos):
             ET.SubElement(item, "g:variant_names").text = 'Cor'
             ET.SubElement(item, "g:variant_values").text = 'Cinza, Linho'
             ET.SubElement(item, "g:color").text = produto['title'].split('-')[-1].strip()
+            ET.SubElement(item, "g:google_product_category").text = "Móveis > Sofás"
+            ET.SubElement(item, "g:condition").text = 'new'
 
     tree = ET.ElementTree(root)
     tree.write(nome_arquivo, encoding='utf-8', xml_declaration=True)
