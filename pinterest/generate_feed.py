@@ -61,7 +61,7 @@ def get_product_images(product):
     images = []
     for image in product['images']:
         images.append(image['src'])
-    return ', '.join(images)
+    return images
     
 def get_product_reviews_count(product_id):
     headers = {"X-Shopify-Access-Token": SHOPIFY_API_TOKEN}
@@ -88,8 +88,11 @@ def gerar_feed_xml(nome_arquivo, produtos):
     root = ET.Element("rss", {'xmlns:g': 'http://base.google.com/ns/1.0'})
     channel = ET.SubElement(root, "channel")
 
+    print(f"gerando feed com {len(produtos['products'])} produtos")
+    i = 1
     for produto in produtos['products']:
-
+        print(f"gerando feed para o produto {produto['id']} ({i}/{len(produtos['products'])})")
+        i += 1
         variants = produto['variants']
         for variant in variants:
             preco_original = variant['compare_at_price']
@@ -102,14 +105,15 @@ def gerar_feed_xml(nome_arquivo, produtos):
             ET.SubElement(item, "g:title").text = produto['title']
             ET.SubElement(item, "g:description").text = produto['title']
             ET.SubElement(item, "g:link").text = f"https://sofanacaixa.com.br/products/{produto['handle']}"
-            ET.SubElement(item, "g:image_link").text = produto['image']['src']
+            images = get_product_images(produto)
+            ET.SubElement(item, "g:image_link").text = images[0]
             ET.SubElement(item, "g:availability").text = "in stock"
             ET.SubElement(item, "g:price").text = f"{preco_original} BRL"
             ET.SubElement(item, "g:sale_price").text = f"{preco_desconto:.2f} BRL"
 
             # CAMPOS ADICIONAIS
             ET.SubElement(item, "g:product_type").text = f"House > Furniture > Sofa > Sofa Modular"
-            ET.SubElement(item, "g:additional_image_link").text = get_product_images(produto)
+            ET.SubElement(item, "g:additional_image_link").text = ', '.join(images[1:-1])
             
             reviews = get_product_reviews_count(produto['id'])
             
@@ -121,7 +125,7 @@ def gerar_feed_xml(nome_arquivo, produtos):
             ET.SubElement(item, "g:group_id").text = get_product_group_id(produto['id'])
             ET.SubElement(item, "g:brand").text = "Sofá na Caixa"
             ET.SubElement(item, "g:mpn").text = variant['sku']
-            ET.SubElement(item, "g:size_system").text = 'BRL'
+            ET.SubElement(item, "g:size_system").text = 'BR'
             ET.SubElement(item, "g:variant_names").text = 'Cor'
             ET.SubElement(item, "g:variant_values").text = 'Cinza, Linho'
             ET.SubElement(item, "g:color").text = produto['title'].split('-')[-1].strip()

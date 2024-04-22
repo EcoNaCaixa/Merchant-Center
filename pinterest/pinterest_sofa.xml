@@ -14,9 +14,7 @@
             <g:price>199.00 BRL</g:price>
             <g:sale_price>170.05 BRL</g:sale_price>
             <g:product_type>House &gt; Furniture &gt; Sofa &gt; Sofa Modular</g:product_type>
-            <g:additional_image_link>
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/b6e98637667b04e22514b1fcdaecb820_ef84e4d6-c331-40c0-a175-8c01d601dcb0.webp?v=1712006401,
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/4bc94c6bd1252ef2abd49dfd94b52a2d_fbffb89a-62d1-441f-9aec-8aaeeef3efb6.webp?v=1712006401</g:additional_image_link>
+            <g:additional_image_link />
             <g:average_review_rating>5</g:average_review_rating>
             <g:number_of_ratings>25</g:number_of_ratings>
             <g:number_of_reviews>25</g:number_of_reviews>
@@ -30,7 +28,7 @@
             <g:group_id>AL11</g:group_id>
             <g:brand>Sofá na Caixa</g:brand>
             <g:mpn>SCAP23SQ2SL</g:mpn>
-            <g:size_system>BRL</g:size_system>
+            <g:size_system>BR</g:size_system>
             <g:variant_names>Cor</g:variant_names>
             <g:variant_values>Cinza, Linho</g:variant_values>
             <g:color>40X40cm</g:color>
@@ -50,9 +48,7 @@
             <g:price>199.00 BRL</g:price>
             <g:sale_price>170.05 BRL</g:sale_price>
             <g:product_type>House &gt; Furniture &gt; Sofa &gt; Sofa Modular</g:product_type>
-            <g:additional_image_link>
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/9aef9c72ecbbd80b0d321153774b29bc.webp?v=1712006979,
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/faf4255b64c587af9e8d3bb2be126410.webp?v=1712006979</g:additional_image_link>
+            <g:additional_image_link />
             <g:average_review_rating>5</g:average_review_rating>
             <g:number_of_ratings>25</g:number_of_ratings>
             <g:number_of_reviews>25</g:number_of_reviews>
@@ -66,7 +62,7 @@
             <g:group_id>AL11</g:group_id>
             <g:brand>Sofá na Caixa</g:brand>
             <g:mpn>5G7H3J9K1L2</g:mpn>
-            <g:size_system>BRL</g:size_system>
+            <g:size_system>BR</g:size_system>
             <g:variant_names>Cor</g:variant_names>
             <g:variant_values>Cinza, Linho</g:variant_values>
             <g:color>40X40cm</g:color>
@@ -85,9 +81,7 @@
             <g:price>199.00 BRL</g:price>
             <g:sale_price>170.05 BRL</g:sale_price>
             <g:product_type>House &gt; Furniture &gt; Sofa &gt; Sofa Modular</g:product_type>
-            <g:additional_image_link>
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/4123f9e257838c0dc4bebf28cc7e2969.webp?v=1712007188,
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/014f7cb5a111d3f976726cee89c559cf.webp?v=1712007188</g:additional_image_link>
+            <g:additional_image_link />
             <g:average_review_rating>5</g:average_review_rating>
             <g:number_of_ratings>25</g:number_of_ratings>
             <g:number_of_reviews>25</g:number_of_reviews>
@@ -101,7 +95,7 @@
             <g:group_id>AL11</g:group_id>
             <g:brand>Sofá na Caixa</g:brand>
             <g:mpn>A8F2B6Z1Y4X</g:mpn>
-            <g:size_system>BRL</g:size_system>
+            <g:size_system>BR</g:size_system>
             <g:variant_names>Cor</g:variant_names>
             <g:variant_values>Cinza, Linho</g:variant_values>
             <g:color>40X40cm</g:color>
@@ -120,9 +114,7 @@
             <g:price>199.00 BRL</g:price>
             <g:sale_price>170.05 BRL</g:sale_price>
             <g:product_type>House &gt; Furniture &gt; Sofa &gt; Sofa Modular</g:product_type>
-            <g:additional_image_link>
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/7dfcda3a3242f9c6ede3ee80cf95bda0.webp?v=1712007823,
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/739021369cba1c9fd3164caaf7d0867a.webp?v=1712007823</g:additional_image_link>
+            <g:additional_image_link />
             <g:average_review_rating>5</g:average_review_rating>
             <g:number_of_ratings>25</g:number_of_ratings>
             <g:number_of_reviews>25</g:number_of_reviews>
@@ -136,7 +128,7 @@
             <g:group_id>AL11</g:group_id>
             <g:brand>Sofá na Caixa</g:brand>
             <g:mpn>3D7G5F2H8J1</g:mpn>
-            <g:size_system>BRL</g:size_system>
+            <g:size_system>BR</g:size_system>
             <g:variant_names>Cor</g:variant_names>
             <g:variant_values>Cinza, Linho</g:variant_values>
             <g:color>Almofada Estampada Exclusiva Sofá na Caixa Tucano 40X40cm</g:color>
@@ -156,12 +148,10 @@
             <g:sale_price>1225.50 BRL</g:sale_price>
             <g:product_type>House &gt; Furniture &gt; Sofa &gt; Sofa Modular</g:product_type>
             <g:additional_image_link>
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_1-lugar-puff_cinza_frente.webp?v=1706816585,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_1-lugar-puff_cinza_esquerda.webp?v=1708448606,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_1-lugar-puff_cinza_direita_6e11c208-e80a-4735-84c7-23e6a0b401f1.webp?v=1708448602,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_beneficios_apoio_5d292196-aa7b-49bc-a941-26bc8df8b62b.webp?v=1710445758,
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-1_5a0350aa-08b3-426f-9c9c-ede95e1b876c.webp?v=1710445758,
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-3_b2a26faf-57d2-4bcd-a8a3-4d490dba5301.webp?v=1710445758</g:additional_image_link>
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-1_5a0350aa-08b3-426f-9c9c-ede95e1b876c.webp?v=1710445758</g:additional_image_link>
             <g:average_review_rating>5</g:average_review_rating>
             <g:number_of_ratings>103</g:number_of_ratings>
             <g:number_of_reviews>103</g:number_of_reviews>
@@ -263,7 +253,7 @@
             <g:group_id>MOD11</g:group_id>
             <g:brand>Sofá na Caixa</g:brand>
             <g:mpn>IDURO9848L</g:mpn>
-            <g:size_system>BRL</g:size_system>
+            <g:size_system>BR</g:size_system>
             <g:variant_names>Cor</g:variant_names>
             <g:variant_values>Cinza, Linho</g:variant_values>
             <g:color>Cinza</g:color>
@@ -283,12 +273,10 @@
             <g:sale_price>1225.50 BRL</g:sale_price>
             <g:product_type>House &gt; Furniture &gt; Sofa &gt; Sofa Modular</g:product_type>
             <g:additional_image_link>
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_1-lugar-puff_bege_frente.webp?v=1706638777,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_1-lugar-puff_bege_esquerda.webp?v=1708448623,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_1-lugar-puff_bege_direita.webp?v=1708448623,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_beneficios_apoio.webp?v=1710445748,
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-1_f976c242-ef81-44c4-aa25-c0e8640249e8.webp?v=1710445678,
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-3_30331997-e028-44a5-8e0b-8f506fe55783.webp?v=1710445678</g:additional_image_link>
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-1_f976c242-ef81-44c4-aa25-c0e8640249e8.webp?v=1710445678</g:additional_image_link>
             <g:average_review_rating>5</g:average_review_rating>
             <g:number_of_ratings>16</g:number_of_ratings>
             <g:number_of_reviews>16</g:number_of_reviews>
@@ -390,7 +378,7 @@
             <g:group_id>MOD11</g:group_id>
             <g:brand>Sofá na Caixa</g:brand>
             <g:mpn>K9599YDYPH</g:mpn>
-            <g:size_system>BRL</g:size_system>
+            <g:size_system>BR</g:size_system>
             <g:variant_names>Cor</g:variant_names>
             <g:variant_values>Cinza, Linho</g:variant_values>
             <g:color>Linho</g:color>
@@ -410,10 +398,8 @@
             <g:sale_price>93.10 BRL</g:sale_price>
             <g:product_type>House &gt; Furniture &gt; Sofa &gt; Sofa Modular</g:product_type>
             <g:additional_image_link>
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/5545e823a63c11441707f4d01ff6a7c0.webp?v=1712097843,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/05d40090234872f9e8f148617bb76e01.webp?v=1712097844,
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/26197199e2d735807ee684cc7649369a.webp?v=1712097844,
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/bf86b06b4aebf6edb48b28a4649dac43.webp?v=1712097844</g:additional_image_link>
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/26197199e2d735807ee684cc7649369a.webp?v=1712097844</g:additional_image_link>
             <g:average_review_rating>5</g:average_review_rating>
             <g:number_of_ratings>25</g:number_of_ratings>
             <g:number_of_reviews>25</g:number_of_reviews>
@@ -426,7 +412,7 @@
             <g:group_id>MEI11</g:group_id>
             <g:brand>Sofá na Caixa</g:brand>
             <g:mpn>ME923DL2OE</g:mpn>
-            <g:size_system>BRL</g:size_system>
+            <g:size_system>BR</g:size_system>
             <g:variant_names>Cor</g:variant_names>
             <g:variant_values>Cinza, Linho</g:variant_values>
             <g:color>Tamanho único</g:color>
@@ -445,12 +431,10 @@
             <g:sale_price>1949.40 BRL</g:sale_price>
             <g:product_type>House &gt; Furniture &gt; Sofa &gt; Sofa Modular</g:product_type>
             <g:additional_image_link>
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/6f708fd1396e64bda0d3ca3adae139b1.webp?v=1712143775,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/193dfa17acdcb56af2fc91956bf8f1f4.webp?v=1712143775,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/3e5dd8b170022e00861893357e35334b.webp?v=1712143775,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/de889c090ccf43fec0f533e54ea99979.webp?v=1712143775,
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/9df342545f9346db373953886827cfbf.webp?v=1712070430,
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/4f58260a05aed59e1d3e412ed1430d2b.webp?v=1712070430</g:additional_image_link>
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/9df342545f9346db373953886827cfbf.webp?v=1712070430</g:additional_image_link>
             <g:average_review_rating>5</g:average_review_rating>
             <g:number_of_ratings>91</g:number_of_ratings>
             <g:number_of_reviews>91</g:number_of_reviews>
@@ -559,7 +543,7 @@
             <g:group_id>MOD12</g:group_id>
             <g:brand>Sofá na Caixa</g:brand>
             <g:mpn>HYZGOVLDK2</g:mpn>
-            <g:size_system>BRL</g:size_system>
+            <g:size_system>BR</g:size_system>
             <g:variant_names>Cor</g:variant_names>
             <g:variant_values>Cinza, Linho</g:variant_values>
             <g:color>Cinza</g:color>
@@ -578,12 +562,10 @@
             <g:sale_price>1949.40 BRL</g:sale_price>
             <g:product_type>House &gt; Furniture &gt; Sofa &gt; Sofa Modular</g:product_type>
             <g:additional_image_link>
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_1-lugar-canto_bege_frente.webp?v=1706638978,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_1-lugar-canto_bege_direita.webp?v=1707333114,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_1-lugar-canto_bege_esquerda.webp?v=1707333114,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_beneficios_V2_2e7c54bd-ac17-4df2-82e8-24c0e92f2fc7.webp?v=1707333114,
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-1_2f7bd9c9-c867-40dc-a43f-e3421e44b3eb.webp?v=1707333114,
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-3_e06a5ef4-2973-42a9-a1d7-e3e986c25fd3.webp?v=1707333114</g:additional_image_link>
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-1_2f7bd9c9-c867-40dc-a43f-e3421e44b3eb.webp?v=1707333114</g:additional_image_link>
             <g:average_review_rating>5</g:average_review_rating>
             <g:number_of_ratings>1</g:number_of_ratings>
             <g:number_of_reviews>1</g:number_of_reviews>
@@ -692,7 +674,7 @@
             <g:group_id>MOD12</g:group_id>
             <g:brand>Sofá na Caixa</g:brand>
             <g:mpn>P67088KCL7</g:mpn>
-            <g:size_system>BRL</g:size_system>
+            <g:size_system>BR</g:size_system>
             <g:variant_names>Cor</g:variant_names>
             <g:variant_values>Cinza, Linho</g:variant_values>
             <g:color>Linho</g:color>
@@ -711,12 +693,10 @@
             <g:sale_price>1672.00 BRL</g:sale_price>
             <g:product_type>House &gt; Furniture &gt; Sofa &gt; Sofa Modular</g:product_type>
             <g:additional_image_link>
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/008cc661946f24aafdfbf1df2f2729f7.webp?v=1712143627,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/2061e18bddc0e0a233b7499f0fb4a7b0.webp?v=1712143627,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/65090ae8a4d191d30bc1fa268f7e48cb.webp?v=1712070376,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/62caced63ea10a52f57fef329da35c40.webp?v=1712070376,
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/13616f675130e964a6a4a45f0a6ed318.webp?v=1712070376,
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/23b7d57a101f419ddb4917984af09e76.webp?v=1712070376</g:additional_image_link>
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/13616f675130e964a6a4a45f0a6ed318.webp?v=1712070376</g:additional_image_link>
             <g:average_review_rating>5</g:average_review_rating>
             <g:number_of_ratings>27</g:number_of_ratings>
             <g:number_of_reviews>27</g:number_of_reviews>
@@ -825,7 +805,7 @@
             <g:group_id>MOD13</g:group_id>
             <g:brand>Sofá na Caixa</g:brand>
             <g:mpn>8UG0SM2A51</g:mpn>
-            <g:size_system>BRL</g:size_system>
+            <g:size_system>BR</g:size_system>
             <g:variant_names>Cor</g:variant_names>
             <g:variant_values>Cinza, Linho</g:variant_values>
             <g:color>Cinza</g:color>
@@ -844,12 +824,10 @@
             <g:sale_price>1672.00 BRL</g:sale_price>
             <g:product_type>House &gt; Furniture &gt; Sofa &gt; Sofa Modular</g:product_type>
             <g:additional_image_link>
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_1-lugar_bege_frente_d7642d85-a7b2-43c3-9ed5-4b9d17967abe.webp?v=1706638622,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_1-lugar_bege_direita.webp?v=1707333202,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_1-lugar_bege_esquerda_c1cca1d5-8a4a-4f2f-9c0b-9d0081769740.webp?v=1707333202,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_beneficios_V2_1e652037-d952-41f9-9b59-13a55e7a7937.webp?v=1707333202,
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-1_05d0c29c-9913-46e8-bc83-d5bc79e05ebb.webp?v=1707333202,
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-3_5941b4ba-2975-483e-b777-675f0bdc2424.webp?v=1707333202</g:additional_image_link>
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-1_05d0c29c-9913-46e8-bc83-d5bc79e05ebb.webp?v=1707333202</g:additional_image_link>
             <g:average_review_rating>5</g:average_review_rating>
             <g:number_of_ratings>25</g:number_of_ratings>
             <g:number_of_reviews>25</g:number_of_reviews>
@@ -958,7 +936,7 @@
             <g:group_id>MOD13</g:group_id>
             <g:brand>Sofá na Caixa</g:brand>
             <g:mpn>KHUTBUN2L0</g:mpn>
-            <g:size_system>BRL</g:size_system>
+            <g:size_system>BR</g:size_system>
             <g:variant_names>Cor</g:variant_names>
             <g:variant_values>Cinza, Linho</g:variant_values>
             <g:color>Linho</g:color>
@@ -978,14 +956,12 @@
             <g:sale_price>2319.90 BRL</g:sale_price>
             <g:product_type>House &gt; Furniture &gt; Sofa &gt; Sofa Modular</g:product_type>
             <g:additional_image_link>
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_2-lugares-1-canto_cinza_direita.webp?v=1707235191,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_2-lugares-1-canto_dimensoes_cinza.webp?v=1712171814,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_2-lugares-1-canto_ambiente-1.webp?v=1712171814,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_beneficios_1577b133-bec3-450d-ae26-43180f295c2e.webp?v=1712171814,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_2-lugares-1-canto_ambiente-2_53769bf3-f772-4030-b4a4-f885b912e04c.webp?v=1712171814,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-1_45b0fde9-ffa1-4278-8a68-7b277956bbe9.webp?v=1712171814,
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-3_e99aa2a3-5f10-469e-9878-b02e49e20901.webp?v=1712171814,
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-6_b6dc0cd5-232d-42bc-aa34-6ead45c96f3f.webp?v=1712171814</g:additional_image_link>
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-3_e99aa2a3-5f10-469e-9878-b02e49e20901.webp?v=1712171814</g:additional_image_link>
             <g:average_review_rating>4.6</g:average_review_rating>
             <g:number_of_ratings>49</g:number_of_ratings>
             <g:number_of_reviews>49</g:number_of_reviews>
@@ -1106,7 +1082,7 @@
             <g:group_id>MOD22</g:group_id>
             <g:brand>Sofá na Caixa</g:brand>
             <g:mpn>OLYMNRTJZN</g:mpn>
-            <g:size_system>BRL</g:size_system>
+            <g:size_system>BR</g:size_system>
             <g:variant_names>Cor</g:variant_names>
             <g:variant_values>Cinza, Linho</g:variant_values>
             <g:color>Cinza</g:color>
@@ -1126,14 +1102,12 @@
             <g:sale_price>2140.35 BRL</g:sale_price>
             <g:product_type>House &gt; Furniture &gt; Sofa &gt; Sofa Modular</g:product_type>
             <g:additional_image_link>
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_2-lugares_cinza_direita.webp?v=1707235216,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_2-lugares_dimensoes_cinza_0e5c6a9a-33f2-45d8-8c7b-0f5ce828c47e.webp?v=1712171419,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_2-lugares_ambiente-2.webp?v=1712171419,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_beneficios.webp?v=1712171419,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_2-lugares_ambiente-1.webp?v=1712171419,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-1_b47e0682-2ca8-46ef-8bdb-e9cf0d1156fd.webp?v=1712171419,
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-3_579fd481-df75-4f36-866e-f613c8c1257e.webp?v=1712171419,
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-6_6fea0e9e-7825-4c2b-bd7a-b7d1556f757c.webp?v=1712171419</g:additional_image_link>
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-3_579fd481-df75-4f36-866e-f613c8c1257e.webp?v=1712171419</g:additional_image_link>
             <g:average_review_rating>4.7</g:average_review_rating>
             <g:number_of_ratings>42</g:number_of_ratings>
             <g:number_of_reviews>42</g:number_of_reviews>
@@ -1254,7 +1228,7 @@
             <g:group_id>MOD23</g:group_id>
             <g:brand>Sofá na Caixa</g:brand>
             <g:mpn>D53PN3MM53</g:mpn>
-            <g:size_system>BRL</g:size_system>
+            <g:size_system>BR</g:size_system>
             <g:variant_names>Cor</g:variant_names>
             <g:variant_values>Cinza, Linho</g:variant_values>
             <g:color>Cinza</g:color>
@@ -1274,14 +1248,12 @@
             <g:sale_price>2500.40 BRL</g:sale_price>
             <g:product_type>House &gt; Furniture &gt; Sofa &gt; Sofa Modular</g:product_type>
             <g:additional_image_link>
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_2-lugares-2-cantos_cinza_direita_3c2d7a37-6674-47cc-83db-603792f8484e.webp?v=1707235324,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_2-lugares-2-cantos_dimensoes_cinza.webp?v=1707235324,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_2-lugares-2-cantos_ambiente-2_f9ea2950-0ea9-4610-997a-3996531fcd52.webp?v=1707235324,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_beneficios_V2_52501739-b6be-4106-8565-0701243fdf59.webp?v=1707333620,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_2-lugares-2-cantos_ambiente-1_fb85c485-fbc0-4f1b-8005-74ed50c92662.webp?v=1707333620,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-1_cfa3b2ed-3632-4911-bfeb-9c5b8bed2ac3.webp?v=1707333731,
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-3_e87607b0-e7d0-47d9-9d4f-80b5f6372d8a.webp?v=1707333731,
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-6_3969a2d3-0717-43cf-91b6-7510711da15b.webp?v=1707333731</g:additional_image_link>
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-3_e87607b0-e7d0-47d9-9d4f-80b5f6372d8a.webp?v=1707333731</g:additional_image_link>
             <g:average_review_rating>4.5</g:average_review_rating>
             <g:number_of_ratings>2</g:number_of_ratings>
             <g:number_of_reviews>2</g:number_of_reviews>
@@ -1402,7 +1374,7 @@
             <g:group_id>MOD21</g:group_id>
             <g:brand>Sofá na Caixa</g:brand>
             <g:mpn>L5T47IBP19</g:mpn>
-            <g:size_system>BRL</g:size_system>
+            <g:size_system>BR</g:size_system>
             <g:variant_names>Cor</g:variant_names>
             <g:variant_values>Cinza, Linho</g:variant_values>
             <g:color>Cinza</g:color>
@@ -1422,14 +1394,12 @@
             <g:sale_price>2500.40 BRL</g:sale_price>
             <g:product_type>House &gt; Furniture &gt; Sofa &gt; Sofa Modular</g:product_type>
             <g:additional_image_link>
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_2-lugares-2-cantos_bege_direita.webp?v=1706816834,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_2-lugares-2-cantos_dimensoes_bege.webp?v=1707235347,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_2-lugares-2-cantos_ambiente-2.webp?v=1707235347,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_beneficios_V2_8e0c0847-c883-4056-9f4f-92cb0ab5b481.webp?v=1707333754,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_2-lugares-2-cantos_ambiente-1.webp?v=1707333754,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-1_a4f347d8-7937-41f4-94b2-1022d5cac3b7.webp?v=1707333754,
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-3_99b6674b-1256-4c03-a2f7-d777a18b2037.webp?v=1707333754,
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-6_cc8c7a3c-459c-4726-9905-eb87263c9fd8.webp?v=1707333751</g:additional_image_link>
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-3_99b6674b-1256-4c03-a2f7-d777a18b2037.webp?v=1707333754</g:additional_image_link>
             <g:average_review_rating>4.9</g:average_review_rating>
             <g:number_of_ratings>90</g:number_of_ratings>
             <g:number_of_reviews>90</g:number_of_reviews>
@@ -1550,7 +1520,7 @@
             <g:group_id>MOD21</g:group_id>
             <g:brand>Sofá na Caixa</g:brand>
             <g:mpn>PZ2HQSBU67</g:mpn>
-            <g:size_system>BRL</g:size_system>
+            <g:size_system>BR</g:size_system>
             <g:variant_names>Cor</g:variant_names>
             <g:variant_values>Cinza, Linho</g:variant_values>
             <g:color>Linho</g:color>
@@ -1570,14 +1540,12 @@
             <g:sale_price>2140.35 BRL</g:sale_price>
             <g:product_type>House &gt; Furniture &gt; Sofa &gt; Sofa Modular</g:product_type>
             <g:additional_image_link>
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_2-lugares_bege_direita_3764c471-e356-4171-ad7a-8e1da3b84db0.webp?v=1707241456,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_2-lugares_dimensoes_bege_f9ea7851-75ef-4805-99e8-7b2738b470ed.webp?v=1712171536,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_2-lugares_ambiente-2_11802b28-5e2f-42e0-8414-46f06d3d8583.webp?v=1712171536,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_2-lugares_ambiente-1_ea621890-c23d-4d1b-a3bd-f018a4a8cf8d.webp?v=1712171536,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_beneficios_71b762fc-979b-49c4-a40a-a7334592d233.webp?v=1712171536,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-1_4522cca9-ab9c-4e11-a854-370adde421d0.webp?v=1712171536,
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-3_76c78d07-5579-4864-aaab-e2fd5bf158d9.webp?v=1712171536,
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-6_e0fd1aa4-3ba3-4013-884c-4ee0f68cf6d0.webp?v=1712171536</g:additional_image_link>
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-3_76c78d07-5579-4864-aaab-e2fd5bf158d9.webp?v=1712171536</g:additional_image_link>
             <g:average_review_rating>5</g:average_review_rating>
             <g:number_of_ratings>1</g:number_of_ratings>
             <g:number_of_reviews>1</g:number_of_reviews>
@@ -1698,7 +1666,7 @@
             <g:group_id>MOD23</g:group_id>
             <g:brand>Sofá na Caixa</g:brand>
             <g:mpn>AVLPJKYSYY</g:mpn>
-            <g:size_system>BRL</g:size_system>
+            <g:size_system>BR</g:size_system>
             <g:variant_names>Cor</g:variant_names>
             <g:variant_values>Cinza, Linho</g:variant_values>
             <g:color>Linho</g:color>
@@ -1718,14 +1686,12 @@
             <g:sale_price>2319.90 BRL</g:sale_price>
             <g:product_type>House &gt; Furniture &gt; Sofa &gt; Sofa Modular</g:product_type>
             <g:additional_image_link>
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_2-lugares-1-canto_bege_direita_fbbd6ad3-7ce5-4e62-a7de-29ccd7cd3180.webp?v=1706817317,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_2-lugares-1-canto_dimensoes_bege_dea57c85-fb26-43d2-98be-03fe79a6fd89.webp?v=1712171950,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_2-lugares-1-canto_ambiente-1_40a25657-5b0e-4a62-af6f-5acdc5f9e5b5.webp?v=1712171950,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_2-lugares-1-canto_ambiente-2.webp?v=1712171950,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_beneficios_da574f22-67de-4fec-b395-efed0bbd5a08.webp?v=1712171950,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-1_1d58b998-66d5-4068-baa0-72d915ac8c8f.webp?v=1712171950,
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-3_1d0f8cdf-1658-427d-8928-3f83cca08f52.webp?v=1712171950,
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-6_e1efb915-772e-4681-ad50-b434af543844.webp?v=1712171950</g:additional_image_link>
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-3_1d0f8cdf-1658-427d-8928-3f83cca08f52.webp?v=1712171950</g:additional_image_link>
             <g:average_review_rating>5</g:average_review_rating>
             <g:number_of_ratings>20</g:number_of_ratings>
             <g:number_of_reviews>20</g:number_of_reviews>
@@ -1847,7 +1813,7 @@
             <g:group_id>MOD22</g:group_id>
             <g:brand>Sofá na Caixa</g:brand>
             <g:mpn>3YKS9383OQ</g:mpn>
-            <g:size_system>BRL</g:size_system>
+            <g:size_system>BR</g:size_system>
             <g:variant_names>Cor</g:variant_names>
             <g:variant_values>Cinza, Linho</g:variant_values>
             <g:color>Linho</g:color>
@@ -1867,14 +1833,12 @@
             <g:sale_price>3280.35 BRL</g:sale_price>
             <g:product_type>House &gt; Furniture &gt; Sofa &gt; Sofa Modular</g:product_type>
             <g:additional_image_link>
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_3-lugares-1-canto_cinza_direita.webp?v=1706816613,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_3-lugares-1-canto_dimensoes_cinza_3d85714c-1166-4265-b8f6-322c5f01ef8f.webp?v=1712172275,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_3-lugares-1-canto_ambiente-1.webp?v=1712172275,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_3-lugares-1-canto_ambiente-2.webp?v=1712172275,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_beneficios_ced6203c-10fb-404b-8eee-2e7d71460d33.webp?v=1712172275,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-1_f0d6ef8c-5b5b-4dd6-809a-dfe5488ea859.webp?v=1712172275,
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-3_35ea3910-a2fb-4401-9a6b-c280ea443f85.webp?v=1712172275,
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-6_4952522d-29e6-4132-9b8e-6c5d1e608d00.webp?v=1712172275</g:additional_image_link>
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-3_35ea3910-a2fb-4401-9a6b-c280ea443f85.webp?v=1712172275</g:additional_image_link>
             <g:average_review_rating>4.7</g:average_review_rating>
             <g:number_of_ratings>58</g:number_of_ratings>
             <g:number_of_reviews>58</g:number_of_reviews>
@@ -1996,7 +1960,7 @@
             <g:group_id>MOD31</g:group_id>
             <g:brand>Sofá na Caixa</g:brand>
             <g:mpn>4Z1A1LTGQG</g:mpn>
-            <g:size_system>BRL</g:size_system>
+            <g:size_system>BR</g:size_system>
             <g:variant_names>Cor</g:variant_names>
             <g:variant_values>Cinza, Linho</g:variant_values>
             <g:color>Cinza</g:color>
@@ -2016,14 +1980,12 @@
             <g:sale_price>3450.40 BRL</g:sale_price>
             <g:product_type>House &gt; Furniture &gt; Sofa &gt; Sofa Modular</g:product_type>
             <g:additional_image_link>
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_3-lugares-2-cantos_cinza_direita.webp?v=1706816878,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_3-lugares-2-cantos_dimensoes_cinza_e2b315e5-c569-414c-97ef-cdce6bcee519.webp?v=1712172862,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_3-lugares-2-cantos_ambiente-1.webp?v=1712172862,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_beneficios_1613253a-bbcb-4beb-aa39-52f9f71206cc.webp?v=1712172871,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_3-lugares-2-cantos_ambiente-2.webp?v=1712172871,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-1_b9c37b4a-3a9c-462d-b118-a365971cffd6.webp?v=1712172871,
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-3_3e469e89-a5df-4cfe-9618-7f6002749578.webp?v=1712172871,
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-6_5fba9a8b-e999-4ec1-b36e-7941dc411789.webp?v=1712172871</g:additional_image_link>
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-3_3e469e89-a5df-4cfe-9618-7f6002749578.webp?v=1712172871</g:additional_image_link>
             <g:average_review_rating>4.8</g:average_review_rating>
             <g:number_of_ratings>32</g:number_of_ratings>
             <g:number_of_reviews>32</g:number_of_reviews>
@@ -2145,7 +2107,7 @@
             <g:group_id>MOD32</g:group_id>
             <g:brand>Sofá na Caixa</g:brand>
             <g:mpn>BWG2LFKH80</g:mpn>
-            <g:size_system>BRL</g:size_system>
+            <g:size_system>BR</g:size_system>
             <g:variant_names>Cor</g:variant_names>
             <g:variant_values>Cinza, Linho</g:variant_values>
             <g:color>Cinza</g:color>
@@ -2165,14 +2127,12 @@
             <g:sale_price>3099.85 BRL</g:sale_price>
             <g:product_type>House &gt; Furniture &gt; Sofa &gt; Sofa Modular</g:product_type>
             <g:additional_image_link>
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_3-lugares-1-canto-puff_cinza_direita.webp?v=1707241206,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_3-lugares-1-canto-puff_dimensoes_cinza_6b398c95-342f-4ad8-9d19-c4a86e426609.webp?v=1712172574,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_3-lugares-1-canto-puff_ambiente-1.webp?v=1712172574,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_beneficios_80942e11-078c-4db0-ad3e-b51797ab4840.webp?v=1712172586,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_3-lugares-1-canto-puff_ambiente-2.webp?v=1712172586,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-1_543ef791-fcc9-4f10-9d08-7975af417bec.webp?v=1712172586,
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-3_e4e6ca9a-cb9e-4b86-851b-4aac8d68f27a.webp?v=1712172586,
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-6_9826d9e3-78e6-481e-b0da-d9f192a63ade.webp?v=1712172586</g:additional_image_link>
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-3_e4e6ca9a-cb9e-4b86-851b-4aac8d68f27a.webp?v=1712172586</g:additional_image_link>
             <g:average_review_rating>4.7</g:average_review_rating>
             <g:number_of_ratings>45</g:number_of_ratings>
             <g:number_of_reviews>45</g:number_of_reviews>
@@ -2294,7 +2254,7 @@
             <g:group_id>MOD33</g:group_id>
             <g:brand>Sofá na Caixa</g:brand>
             <g:mpn>8CNSBA695F</g:mpn>
-            <g:size_system>BRL</g:size_system>
+            <g:size_system>BR</g:size_system>
             <g:variant_names>Cor</g:variant_names>
             <g:variant_values>Cinza, Linho</g:variant_values>
             <g:color>Cinza</g:color>
@@ -2314,14 +2274,12 @@
             <g:sale_price>3280.35 BRL</g:sale_price>
             <g:product_type>House &gt; Furniture &gt; Sofa &gt; Sofa Modular</g:product_type>
             <g:additional_image_link>
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_3-lugares-1-canto_bege_direita_29c5ff6b-6b2a-4ca3-b657-4e76af371142.webp?v=1707241239,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_3-lugares-1-canto_dimensoes_bege_8903d6eb-4997-4a28-b99f-179a6e8d90d9.webp?v=1712172395,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_3-lugares-1-canto_ambiente-2_cfb5da41-9454-4033-be35-666caa5192e9.webp?v=1712172395,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_beneficios_105388c2-e38c-45a4-99df-340f69ed87dc.webp?v=1712172395,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_3-lugares-1-canto_ambiente-1_9984182a-649c-49d5-8cd0-4f19cc0ef6e4.webp?v=1712172395,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-1_87d9bb94-83c6-422b-ac57-37989ed1f4ad.webp?v=1712172395,
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-3_89c13539-0fa0-4e35-9f53-dbed601fabcd.webp?v=1712172395,
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-6_a82e679e-395b-424f-a451-172a81aae3c7.webp?v=1712172395</g:additional_image_link>
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-3_89c13539-0fa0-4e35-9f53-dbed601fabcd.webp?v=1712172395</g:additional_image_link>
             <g:average_review_rating>5</g:average_review_rating>
             <g:number_of_ratings>12</g:number_of_ratings>
             <g:number_of_reviews>12</g:number_of_reviews>
@@ -2443,7 +2401,7 @@
             <g:group_id>MOD31</g:group_id>
             <g:brand>Sofá na Caixa</g:brand>
             <g:mpn>D7VM8PV996</g:mpn>
-            <g:size_system>BRL</g:size_system>
+            <g:size_system>BR</g:size_system>
             <g:variant_names>Cor</g:variant_names>
             <g:variant_values>Cinza, Linho</g:variant_values>
             <g:color>Linho</g:color>
@@ -2463,14 +2421,12 @@
             <g:sale_price>3099.85 BRL</g:sale_price>
             <g:product_type>House &gt; Furniture &gt; Sofa &gt; Sofa Modular</g:product_type>
             <g:additional_image_link>
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_3-lugares-1-canto-puff_bege_direita_e6700024-576d-42b0-808d-825c213da644.webp?v=1707241279,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_3-lugares-1-canto-puff_dimensoes_bege_32247451-9aa9-45e6-9610-0ef4b919977f.webp?v=1712172701,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_3-lugares-1-canto-puff_ambiente-2_85d576a8-2744-48bd-aadc-c7be4e0ab56d.webp?v=1712172701,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_beneficios_615938f0-ac47-4fd0-b1bc-9ae2156b6f78.webp?v=1712172701,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_3-lugares-1-canto-puff_ambiente-1_485b3c26-8e05-4826-994a-8fffc0deb162.webp?v=1712172701,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-1_663b6935-008b-4e99-becc-292bb5580985.webp?v=1712172699,
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-3_7e1a97e4-5d25-483c-ba2b-550af855c0f1.webp?v=1712172699,
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-6_2aee7bc9-43ec-478b-b0c5-ce0d37944a7c.webp?v=1712172699</g:additional_image_link>
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-3_7e1a97e4-5d25-483c-ba2b-550af855c0f1.webp?v=1712172699</g:additional_image_link>
             <g:average_review_rating>4.5</g:average_review_rating>
             <g:number_of_ratings>2</g:number_of_ratings>
             <g:number_of_reviews>2</g:number_of_reviews>
@@ -2592,7 +2548,7 @@
             <g:group_id>MOD33</g:group_id>
             <g:brand>Sofá na Caixa</g:brand>
             <g:mpn>CNZ20UBCE3</g:mpn>
-            <g:size_system>BRL</g:size_system>
+            <g:size_system>BR</g:size_system>
             <g:variant_names>Cor</g:variant_names>
             <g:variant_values>Cinza, Linho</g:variant_values>
             <g:color>Linho</g:color>
@@ -2612,14 +2568,12 @@
             <g:sale_price>3450.40 BRL</g:sale_price>
             <g:product_type>House &gt; Furniture &gt; Sofa &gt; Sofa Modular</g:product_type>
             <g:additional_image_link>
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_3-lugares-2-cantos_bege_direita_970dd20b-9617-48cf-95e0-329bde86e9b3.webp?v=1707241330,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_3-lugares-2-cantos_dimensoes_bege_b7969cb6-6645-4ddf-9fab-b36281129da4.webp?v=1712172957,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_3-lugares-2-cantos_ambiente-1_c9103ab9-6c0b-44bc-989b-dd5a5d2c7713.webp?v=1712172957,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_beneficios_1d9e6c1d-2682-4019-af88-ac1eadf038d9.webp?v=1712172957,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_3-lugares-2-cantos_ambiente-2_a9fd2d72-3308-4ecd-b0f1-c1de0754f8b5.webp?v=1712172957,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-1_a083ad1e-c82c-48f1-a0ba-694e4ae7789a.webp?v=1712172957,
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-3_5c865d4d-33b3-4ccf-852e-e9425e74c6f6.webp?v=1712172957,
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-6_34d7d030-c6a2-44b5-8198-40039c4091a4.webp?v=1712172957</g:additional_image_link>
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-3_5c865d4d-33b3-4ccf-852e-e9425e74c6f6.webp?v=1712172957</g:additional_image_link>
             <g:average_review_rating>5</g:average_review_rating>
             <g:number_of_ratings>23</g:number_of_ratings>
             <g:number_of_reviews>23</g:number_of_reviews>
@@ -2741,7 +2695,7 @@
             <g:group_id>MOD32</g:group_id>
             <g:brand>Sofá na Caixa</g:brand>
             <g:mpn>HH63FD6PUH</g:mpn>
-            <g:size_system>BRL</g:size_system>
+            <g:size_system>BR</g:size_system>
             <g:variant_names>Cor</g:variant_names>
             <g:variant_values>Cinza, Linho</g:variant_values>
             <g:color>Linho</g:color>
@@ -2761,14 +2715,12 @@
             <g:sale_price>4040.35 BRL</g:sale_price>
             <g:product_type>House &gt; Furniture &gt; Sofa &gt; Sofa Modular</g:product_type>
             <g:additional_image_link>
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_4-lugares-1-canto1-puff-L_cinza_esquerda.webp?v=1706817001,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_4-lugares-1-canto-1-puff-L_dimensoes_cinza.webp?v=1707245187,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_4-lugares-1-canto1-puff-L_ambiente-1.webp?v=1707245187,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_beneficios_V2_99e29beb-1b6e-4a00-a700-eabd739a3e62.webp?v=1707335819,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_4-lugares-1-canto-1-puff-L_ambiente-2.webp?v=1707335819,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-1_0a56af21-a511-4dd0-8262-dbd283c1bed6.webp?v=1707335819,
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-3_4b80dd34-8e1d-48c4-8c57-ed417a6dea82.webp?v=1707335829,
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-6_7619e89f-bd13-4dc7-aa67-7bac8e5dac15.webp?v=1707335819</g:additional_image_link>
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-3_4b80dd34-8e1d-48c4-8c57-ed417a6dea82.webp?v=1707335829</g:additional_image_link>
             <g:average_review_rating>4.9</g:average_review_rating>
             <g:number_of_ratings>36</g:number_of_ratings>
             <g:number_of_reviews>36</g:number_of_reviews>
@@ -2891,7 +2843,7 @@
             <g:group_id>MOD41</g:group_id>
             <g:brand>Sofá na Caixa</g:brand>
             <g:mpn>19CFW9CKP0</g:mpn>
-            <g:size_system>BRL</g:size_system>
+            <g:size_system>BR</g:size_system>
             <g:variant_names>Cor</g:variant_names>
             <g:variant_values>Cinza, Linho</g:variant_values>
             <g:color>Cinza</g:color>
@@ -2911,14 +2863,12 @@
             <g:sale_price>4199.95 BRL</g:sale_price>
             <g:product_type>House &gt; Furniture &gt; Sofa &gt; Sofa Modular</g:product_type>
             <g:additional_image_link>
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_4-lugares-2-cantos-1-puff_cinza_esquerda.webp?v=1706817075,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_4-lugares-1-canto-1-puff-L_dimensoes_cinza_ce9ac784-62e8-4fb3-a07f-1ba8b351fb22.webp?v=1712239176,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_4-lugares-2-cantos-1-puff_ambiente-1.webp?v=1712239176,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_beneficios_55621c85-6a8b-4ecf-83cd-0080754d9671.webp?v=1712239251,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_4-lugares-1-canto-1-puff-L_ambiente-2_2dfaa4d6-3f33-4efc-a4d6-4435b4df0e77.webp?v=1712239251,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-1_08231b3f-de91-4353-8fc9-19e6334e5d71.webp?v=1712239251,
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-3_0c08fcfb-c876-41df-a01a-32c60190aed5.webp?v=1712239251,
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-6_0c3115a7-e60f-4a16-b590-fcaee79a8a47.webp?v=1712239251</g:additional_image_link>
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-3_0c08fcfb-c876-41df-a01a-32c60190aed5.webp?v=1712239251</g:additional_image_link>
             <g:average_review_rating>4.8</g:average_review_rating>
             <g:number_of_ratings>56</g:number_of_ratings>
             <g:number_of_reviews>56</g:number_of_reviews>
@@ -3042,7 +2992,7 @@
             <g:group_id>MOD42</g:group_id>
             <g:brand>Sofá na Caixa</g:brand>
             <g:mpn>AVVUY8XIQO</g:mpn>
-            <g:size_system>BRL</g:size_system>
+            <g:size_system>BR</g:size_system>
             <g:variant_names>Cor</g:variant_names>
             <g:variant_values>Cinza, Linho</g:variant_values>
             <g:color>Cinza</g:color>
@@ -3062,14 +3012,12 @@
             <g:sale_price>4040.35 BRL</g:sale_price>
             <g:product_type>House &gt; Furniture &gt; Sofa &gt; Sofa Modular</g:product_type>
             <g:additional_image_link>
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_4-lugares-1-puff_cinza_esquerda.webp?v=1706817116,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_4-lugares-1puff_dimensoes_cinza.webp?v=1707245342,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_4-lugares-1-puff_ambiente-1.webp?v=1707245342,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_beneficios_V2_8867a72f-8960-459b-bb53-9d887f2edd66.webp?v=1707336167,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_4-lugares-1puff_ambiente-2.webp?v=1707336167,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-1_39229abc-d100-4264-8b45-df21b68ae72d.webp?v=1707336167,
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-3_9869ef19-1934-4f18-bfa1-e58d3209c510.webp?v=1707336167,
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-6_c2b1180d-171d-4baa-80aa-4d9c88e04152.webp?v=1707336180</g:additional_image_link>
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-3_9869ef19-1934-4f18-bfa1-e58d3209c510.webp?v=1707336167</g:additional_image_link>
             <g:average_review_rating>4.8</g:average_review_rating>
             <g:number_of_ratings>64</g:number_of_ratings>
             <g:number_of_reviews>64</g:number_of_reviews>
@@ -3190,7 +3138,7 @@
             <g:group_id>MOD43</g:group_id>
             <g:brand>Sofá na Caixa</g:brand>
             <g:mpn>8PCQGSKT0C</g:mpn>
-            <g:size_system>BRL</g:size_system>
+            <g:size_system>BR</g:size_system>
             <g:variant_names>Cor</g:variant_names>
             <g:variant_values>Cinza, Linho</g:variant_values>
             <g:color>Cinza</g:color>
@@ -3210,14 +3158,12 @@
             <g:sale_price>4040.35 BRL</g:sale_price>
             <g:product_type>House &gt; Furniture &gt; Sofa &gt; Sofa Modular</g:product_type>
             <g:additional_image_link>
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_4-lugares-1-canto-1-puff_cinza_esquerda.webp?v=1706555103,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_4-lugares-1-canto-1-puff_dimensoes_cinza.webp?v=1707245441,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_4-lugares-1-canto-1-puff_ambiente-1_774d33d1-5e84-42bd-b15e-696ecfd6b766.webp?v=1707245441,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_beneficios_V2_dddc9e79-71f8-4125-b75d-bf6afd46b5f4.webp?v=1707336356,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_4-lugares-1-canto-1-puff_ambiente-2.webp?v=1707336356,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-1_8cecc53d-5285-4f89-bdd1-3de86b817cb6.webp?v=1707336356,
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-3_bda917cf-f45d-429e-8ace-863097546f0f.webp?v=1707336356,
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-6_69db5ae0-3ade-40c8-8b50-af735eec05fc.webp?v=1707336356</g:additional_image_link>
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-3_bda917cf-f45d-429e-8ace-863097546f0f.webp?v=1707336356</g:additional_image_link>
             <g:average_review_rating>5</g:average_review_rating>
             <g:number_of_ratings>1</g:number_of_ratings>
             <g:number_of_reviews>1</g:number_of_reviews>
@@ -3340,7 +3286,7 @@
             <g:group_id>MOD44</g:group_id>
             <g:brand>Sofá na Caixa</g:brand>
             <g:mpn>IKGRIXX9MR</g:mpn>
-            <g:size_system>BRL</g:size_system>
+            <g:size_system>BR</g:size_system>
             <g:variant_names>Cor</g:variant_names>
             <g:variant_values>Cinza, Linho</g:variant_values>
             <g:color>Cinza</g:color>
@@ -3360,14 +3306,12 @@
             <g:sale_price>4040.35 BRL</g:sale_price>
             <g:product_type>House &gt; Furniture &gt; Sofa &gt; Sofa Modular</g:product_type>
             <g:additional_image_link>
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_4-lugares-1-canto-1-puff_bege_esquerda.webp?v=1706817037,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_4-lugares-1-canto-1-puff_dimensoes_bege.webp?v=1707245520,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_4-lugares-1-canto-1-puff_ambiente-2_b98ece58-4a9d-4340-ba41-7aba31cc48a6.webp?v=1707245520,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_beneficios_V2_a5815ff4-ef45-4ef3-acd3-0546b3138556.webp?v=1707336393,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_4-lugares-1-canto-1-puff_ambiente-1.webp?v=1707336393,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-1_fc957e6c-0bee-4c37-af70-dc8f93b67507.webp?v=1707336393,
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-3_dea5deff-052b-4035-8532-bbb096e65081.webp?v=1707336393,
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-6_c1376889-ef9e-46f5-b5e1-961c05644ea5.webp?v=1707336393</g:additional_image_link>
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-3_dea5deff-052b-4035-8532-bbb096e65081.webp?v=1707336393</g:additional_image_link>
             <g:average_review_rating>4.9</g:average_review_rating>
             <g:number_of_ratings>25</g:number_of_ratings>
             <g:number_of_reviews>25</g:number_of_reviews>
@@ -3490,7 +3434,7 @@
             <g:group_id>MOD44</g:group_id>
             <g:brand>Sofá na Caixa</g:brand>
             <g:mpn>FWHQM2R3O2</g:mpn>
-            <g:size_system>BRL</g:size_system>
+            <g:size_system>BR</g:size_system>
             <g:variant_names>Cor</g:variant_names>
             <g:variant_values>Cinza, Linho</g:variant_values>
             <g:color>Linho</g:color>
@@ -3510,14 +3454,12 @@
             <g:sale_price>4040.35 BRL</g:sale_price>
             <g:product_type>House &gt; Furniture &gt; Sofa &gt; Sofa Modular</g:product_type>
             <g:additional_image_link>
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_4-lugares-1-canto1-puff-L_bege_esquerda_9f6b2c8e-62d6-4f86-bbcb-1f88b9dfc983.webp?v=1706817483,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_4-lugares-1-canto-1-puff-L_dimensoes_bege.webp?v=1707245665,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_4-lugares-1-canto1-puff-L_ambiente-1_a67492f7-0263-4266-a26d-eba8fd637eaf.webp?v=1707245665,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_beneficios_V2_91d43343-2165-4d8f-b223-737d16d7b995.webp?v=1707336426,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_4-lugares-1-canto-1-puff-L_ambiente-2_1430bfe6-2bb7-464b-829f-0e895b56383e.webp?v=1707336426,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-1_f4a8b0e8-12d7-4570-bd96-6cd79f38ee54.webp?v=1707336426,
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-3_4d5ebcde-67fc-444a-ab8e-564daa51694f.webp?v=1707336426,
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-6_74ed51ae-1d38-449a-87e0-5313b67b7eb2.webp?v=1707336426</g:additional_image_link>
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-3_4d5ebcde-67fc-444a-ab8e-564daa51694f.webp?v=1707336426</g:additional_image_link>
             <g:average_review_rating>5</g:average_review_rating>
             <g:number_of_ratings>26</g:number_of_ratings>
             <g:number_of_reviews>26</g:number_of_reviews>
@@ -3640,7 +3582,7 @@
             <g:group_id>MOD41</g:group_id>
             <g:brand>Sofá na Caixa</g:brand>
             <g:mpn>HRE0B0WETV</g:mpn>
-            <g:size_system>BRL</g:size_system>
+            <g:size_system>BR</g:size_system>
             <g:variant_names>Cor</g:variant_names>
             <g:variant_values>Cinza, Linho</g:variant_values>
             <g:color>Linho</g:color>
@@ -3660,14 +3602,12 @@
             <g:sale_price>4040.35 BRL</g:sale_price>
             <g:product_type>House &gt; Furniture &gt; Sofa &gt; Sofa Modular</g:product_type>
             <g:additional_image_link>
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_4-lugares-1-puff_bege_esquerda_372256ba-ea30-4f0e-89b5-55fb11eb8853.webp?v=1706817520,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_4-lugares-1puff_dimensoes_bege.webp?v=1707245745,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_4-lugares-1-puff_ambiente-1.jpg?v=1707245745,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_beneficios_V2_fd2bcd99-b5a0-40f0-8317-45c80e572e58.webp?v=1707336869,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_4-lugares-1puff_ambiente-2_6e10d17a-c160-446f-9bc8-6af775d0301a.webp?v=1707336869,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-1_57ff28d7-da79-4e6b-b779-6900f3126dbd.webp?v=1707336903,
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-3_3d866d52-5871-4842-bff8-2a7b5a46551c.webp?v=1707336869,
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-6_d08c3acd-e847-4b23-9402-9e4d4f14ace5.webp?v=1707336869</g:additional_image_link>
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-3_3d866d52-5871-4842-bff8-2a7b5a46551c.webp?v=1707336869</g:additional_image_link>
             <g:average_review_rating>5</g:average_review_rating>
             <g:number_of_ratings>70</g:number_of_ratings>
             <g:number_of_reviews>70</g:number_of_reviews>
@@ -3788,7 +3728,7 @@
             <g:group_id>MOD43</g:group_id>
             <g:brand>Sofá na Caixa</g:brand>
             <g:mpn>G2MU5MCPWT</g:mpn>
-            <g:size_system>BRL</g:size_system>
+            <g:size_system>BR</g:size_system>
             <g:variant_names>Cor</g:variant_names>
             <g:variant_values>Cinza, Linho</g:variant_values>
             <g:color>Linho</g:color>
@@ -3808,14 +3748,12 @@
             <g:sale_price>4199.95 BRL</g:sale_price>
             <g:product_type>House &gt; Furniture &gt; Sofa &gt; Sofa Modular</g:product_type>
             <g:additional_image_link>
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_4-lugares-2-cantos-1-puff_bege_esquerda_e14a8d08-b82b-458b-a476-358b9b9dcf81.webp?v=1706718646,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_4-lugares-1-canto-1-puff-L_dimensoes_bege_ffaf74fe-baad-4a64-bc30-09fbd58a444c.webp?v=1712239160,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_4-lugares-2-cantos-1-puff_ambiente-1_0e1badce-a931-438c-9505-8b7198bc3b7e.webp?v=1712239160,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_beneficios_9881c174-4b9e-4572-bc0d-25d2eee130e7.webp?v=1712239254,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_4-lugares-1-canto-1-puff-L_ambiente-2_c4ef686a-472b-490d-96c0-f80ad4863177.webp?v=1712239254,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-1_330ef0dc-a200-48d5-b0e2-49f7ab047da9.webp?v=1712239254,
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-3_dcaf7037-cd01-4ab1-8cd9-8d8fb8c46308.webp?v=1712239254,
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-6_fe8c73c5-7db7-4bb0-ba45-4e0c2f76257a.webp?v=1712239254</g:additional_image_link>
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-3_dcaf7037-cd01-4ab1-8cd9-8d8fb8c46308.webp?v=1712239254</g:additional_image_link>
             <g:average_review_rating>5</g:average_review_rating>
             <g:number_of_ratings>41</g:number_of_ratings>
             <g:number_of_reviews>41</g:number_of_reviews>
@@ -3938,7 +3876,7 @@
             <g:group_id>MOD42</g:group_id>
             <g:brand>Sofá na Caixa</g:brand>
             <g:mpn>A4RWNPS0OO</g:mpn>
-            <g:size_system>BRL</g:size_system>
+            <g:size_system>BR</g:size_system>
             <g:variant_names>Cor</g:variant_names>
             <g:variant_values>Cinza, Linho</g:variant_values>
             <g:color>Linho</g:color>
@@ -3958,14 +3896,12 @@
             <g:sale_price>4769.95 BRL</g:sale_price>
             <g:product_type>House &gt; Furniture &gt; Sofa &gt; Sofa Modular</g:product_type>
             <g:additional_image_link>
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_5-lugares-1-canto1-puff-L_cinza_esquerda.webp?v=1706816646,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_5-lugares-1-canto1-puff-L_dimensoes_cinza_c0b75bc5-fce4-4da4-a3f7-5ddd371157e0.webp?v=1712239560,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_5-lugares-1-canto1-puff-L_ambiente-1.webp?v=1712239560,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_beneficios_5d672c7b-8ddf-4275-9bd3-27db98586574.webp?v=1712239560,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_5-lugares-1-canto1-puff-L_ambiente-2.webp?v=1712239560,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-1_17504c90-e010-46ff-8dc3-8d0961bba5e1.webp?v=1712239560,
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-3_89fb1b97-8979-4c0e-b3d9-56703ac89a7e.webp?v=1712239560,
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-6_dd5671fa-a8f1-452f-81ed-803f4535f537.webp?v=1712239560</g:additional_image_link>
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-3_89fb1b97-8979-4c0e-b3d9-56703ac89a7e.webp?v=1712239560</g:additional_image_link>
             <g:average_review_rating>4.7</g:average_review_rating>
             <g:number_of_ratings>776</g:number_of_ratings>
             <g:number_of_reviews>776</g:number_of_reviews>
@@ -4088,7 +4024,7 @@
             <g:group_id>MOD51</g:group_id>
             <g:brand>Sofá na Caixa</g:brand>
             <g:mpn>FAAGBGQ4FD</g:mpn>
-            <g:size_system>BRL</g:size_system>
+            <g:size_system>BR</g:size_system>
             <g:variant_names>Cor</g:variant_names>
             <g:variant_values>Cinza, Linho</g:variant_values>
             <g:color>Cinza</g:color>
@@ -4108,14 +4044,12 @@
             <g:sale_price>4769.95 BRL</g:sale_price>
             <g:product_type>House &gt; Furniture &gt; Sofa &gt; Sofa Modular</g:product_type>
             <g:additional_image_link>
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_5-lugares-1-canto-2-puff-L_cinza_esquerda.webp?v=1706816737,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_5-lugares-1-canto-2-puff-L_dimensoes_cinza.webp?v=1707248925,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_5-lugares-1-canto-2-puff-L_ambiente_2.webp?v=1707248925,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_beneficios_V2_4193c93d-2cce-4af9-a5ab-ba785b00b06e.webp?v=1707337457,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_5-lugares-1-canto-2-puff-L_ambiente_1.webp?v=1707337457,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-1_e6e1c386-5aa8-4370-9a68-a8d7bcd49e2a.webp?v=1707337457,
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-3_b03be659-cc3f-4bf4-926b-94e4b2344da0.webp?v=1707337457,
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-6_576b4b36-0d5d-4c84-9766-f3d3ab5194d9.webp?v=1707337457</g:additional_image_link>
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-3_b03be659-cc3f-4bf4-926b-94e4b2344da0.webp?v=1707337457</g:additional_image_link>
             <g:average_review_rating>4.9</g:average_review_rating>
             <g:number_of_ratings>41</g:number_of_ratings>
             <g:number_of_reviews>41</g:number_of_reviews>
@@ -4238,7 +4172,7 @@
             <g:group_id>MOD52</g:group_id>
             <g:brand>Sofá na Caixa</g:brand>
             <g:mpn>2H48TBELG4</g:mpn>
-            <g:size_system>BRL</g:size_system>
+            <g:size_system>BR</g:size_system>
             <g:variant_names>Cor</g:variant_names>
             <g:variant_values>Cinza, Linho</g:variant_values>
             <g:color>Cinza</g:color>
@@ -4258,14 +4192,12 @@
             <g:sale_price>4769.95 BRL</g:sale_price>
             <g:product_type>House &gt; Furniture &gt; Sofa &gt; Sofa Modular</g:product_type>
             <g:additional_image_link>
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_5-lugares-1-canto1-puff-L_bege_esquerda_16533848-70e9-4397-ac91-a6b9fbef4d4b.webp?v=1706554402,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_5-lugares-1-canto1-puff-L_dimensoes_bege_8bccc7e9-174f-46a7-8441-a6e20cddbfdf.webp?v=1712239573,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_5-lugares-1-canto1-puff-L_ambiente-1.jpg?v=1712239573,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_beneficios_62ea0b70-2dc8-4e1e-8f3b-ceaf08bf8385.webp?v=1712239573,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_5-lugares-1-canto1-puff-L_ambiente-2_230f9402-cca5-4769-9475-338325dee131.webp?v=1712239573,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-1_fd199150-f881-40b2-8131-bd2d0cc38519.webp?v=1712239573,
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-3_3b090068-f3bc-4c17-bfdb-1c2fdb6eca77.webp?v=1712239573,
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-6_46557c38-0035-4dc2-9097-9a283d636798.webp?v=1712239573</g:additional_image_link>
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-3_3b090068-f3bc-4c17-bfdb-1c2fdb6eca77.webp?v=1712239573</g:additional_image_link>
             <g:average_review_rating>5</g:average_review_rating>
             <g:number_of_ratings>29</g:number_of_ratings>
             <g:number_of_reviews>29</g:number_of_reviews>
@@ -4388,7 +4320,7 @@
             <g:group_id>MOD51</g:group_id>
             <g:brand>Sofá na Caixa</g:brand>
             <g:mpn>QX5PTO9C3R</g:mpn>
-            <g:size_system>BRL</g:size_system>
+            <g:size_system>BR</g:size_system>
             <g:variant_names>Cor</g:variant_names>
             <g:variant_values>Cinza, Linho</g:variant_values>
             <g:color>Linho</g:color>
@@ -4408,14 +4340,12 @@
             <g:sale_price>4769.95 BRL</g:sale_price>
             <g:product_type>House &gt; Furniture &gt; Sofa &gt; Sofa Modular</g:product_type>
             <g:additional_image_link>
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_5-lugares-1-canto-2-puff-L_bege_esquerda_c0c179e1-de08-42fd-85e6-43832b8ecca2.webp?v=1706554714,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_5-lugares-1-canto-2-puff-L_dimensoes_bege.webp?v=1707248957,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_5-lugares-1-canto-2-puff-L_ambiente_2_524a39db-08e5-4397-9be2-14c628567762.webp?v=1707248957,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_beneficios_V2_b7ecd9a6-f07c-4f10-9651-903565f3847f.webp?v=1707337586,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_5-lugares-1-canto-2-puff-L_ambiente_1_57e13f27-bdcb-4ba3-beb8-8d51499482fd.webp?v=1707337586,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-1_eb507e9b-0dd2-4009-b3b5-38ab89ec9602.webp?v=1707337586,
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-3_01836529-1501-4614-bedb-e16d6966c147.webp?v=1707337586,
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-6_3bd20854-488e-432a-a317-6df9aca0b083.webp?v=1707337586</g:additional_image_link>
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-3_01836529-1501-4614-bedb-e16d6966c147.webp?v=1707337586</g:additional_image_link>
             <g:average_review_rating>5</g:average_review_rating>
             <g:number_of_ratings>26</g:number_of_ratings>
             <g:number_of_reviews>26</g:number_of_reviews>
@@ -4538,7 +4468,7 @@
             <g:group_id>MOD52</g:group_id>
             <g:brand>Sofá na Caixa</g:brand>
             <g:mpn>QYUDSKHC3I</g:mpn>
-            <g:size_system>BRL</g:size_system>
+            <g:size_system>BR</g:size_system>
             <g:variant_names>Cor</g:variant_names>
             <g:variant_values>Cinza, Linho</g:variant_values>
             <g:color>Linho</g:color>
@@ -4558,14 +4488,12 @@
             <g:sale_price>5549.90 BRL</g:sale_price>
             <g:product_type>House &gt; Furniture &gt; Sofa &gt; Sofa Modular</g:product_type>
             <g:additional_image_link>
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_6-lugares-2-cantos-3-puffs_cinza_esquerda.webp?v=1706816911,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_6-lugares-2-cantos-3-puffs_dimensoes_cinza.webp?v=1707248975,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_6-lugares-2-cantos-3-puffs_ambiente.webp?v=1707248975,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_beneficios_V2_53e10c3e-85e1-4411-ba27-ff6418748372.webp?v=1707337612,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_6-lugares-2-cantos-3-puffs_ambiente-2.webp?v=1707337612,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-1_2ed4bcf0-a9f2-47af-839d-71ff58e0f429.webp?v=1707337612,
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-3_54dfb5b3-c9db-4622-897c-9632d77816be.webp?v=1707337612,
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-6_89904dc1-5a6c-4d61-b10a-5c89879dff0f.webp?v=1707337612</g:additional_image_link>
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-3_54dfb5b3-c9db-4622-897c-9632d77816be.webp?v=1707337612</g:additional_image_link>
             <g:average_review_rating>4.8</g:average_review_rating>
             <g:number_of_ratings>47</g:number_of_ratings>
             <g:number_of_reviews>47</g:number_of_reviews>
@@ -4688,7 +4616,7 @@
             <g:group_id>MOD61</g:group_id>
             <g:brand>Sofá na Caixa</g:brand>
             <g:mpn>5DH7AS84QP</g:mpn>
-            <g:size_system>BRL</g:size_system>
+            <g:size_system>BR</g:size_system>
             <g:variant_names>Cor</g:variant_names>
             <g:variant_values>Cinza, Linho</g:variant_values>
             <g:color>Cinza</g:color>
@@ -4708,14 +4636,12 @@
             <g:sale_price>5700.00 BRL</g:sale_price>
             <g:product_type>House &gt; Furniture &gt; Sofa &gt; Sofa Modular</g:product_type>
             <g:additional_image_link>
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_6-lugares-2-cantos-2-puff-L_cinza_esquerda_3ff6f3f6-0956-4fb5-8f92-b0277570fc3f.webp?v=1706816957,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_6-lugares-2-cantos-2-puff-L_dimensoes_cinza_f66f5f26-2a8c-427c-bef5-6bb10aa8ad3d.webp?v=1712239783,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_6-lugares-2-cantos-2-puff-L_ambiente-1.webp?v=1712239783,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_beneficios_1cc49fdf-b2a4-4103-aa8a-fcb27c8bc172.webp?v=1712239783,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_6-lugares-2-cantos-2-puff-L_ambiente-2.webp?v=1712239783,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-1.webp?v=1712239783,
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-3.webp?v=1712239783,
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-6.webp?v=1712239783</g:additional_image_link>
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-3.webp?v=1712239783</g:additional_image_link>
             <g:average_review_rating>4.8</g:average_review_rating>
             <g:number_of_ratings>71</g:number_of_ratings>
             <g:number_of_reviews>71</g:number_of_reviews>
@@ -4838,7 +4764,7 @@
             <g:group_id>MOD62</g:group_id>
             <g:brand>Sofá na Caixa</g:brand>
             <g:mpn>4VFFC9Z2LK</g:mpn>
-            <g:size_system>BRL</g:size_system>
+            <g:size_system>BR</g:size_system>
             <g:variant_names>Cor</g:variant_names>
             <g:variant_values>Cinza, Linho</g:variant_values>
             <g:color>Cinza</g:color>
@@ -4858,14 +4784,12 @@
             <g:sale_price>5549.90 BRL</g:sale_price>
             <g:product_type>House &gt; Furniture &gt; Sofa &gt; Sofa Modular</g:product_type>
             <g:additional_image_link>
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_6-lugares-2-cantos-3-puffs_bege_esquerda_254154fc-4b4a-48c1-be36-91bc70dd534c.webp?v=1706554912,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_6-lugares-2-cantos-3-puffs_dimensoes_bege.webp?v=1707249006,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_6-lugares-2-cantos-3-puffs_ambiente_7b23b212-c94a-4023-96b6-883bbef90ffe.webp?v=1707249006,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_beneficios_V2_e45838f5-e221-4109-8781-1d8a639b89d8.webp?v=1707337842,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_6-lugares-2-cantos-3-puffs_ambiente-2_6e2a8aa4-b705-49d4-9264-233a06b14cdf.webp?v=1707337842,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-1_ac765172-8e7c-4523-b3c0-353299205f66.webp?v=1707337842,
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-3_1b22ffa1-68ad-4fa7-a126-8a11fb304ef0.webp?v=1707337842,
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-6_86a5170e-9272-4440-a663-5fee2fb7bc58.webp?v=1707337842</g:additional_image_link>
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-3_1b22ffa1-68ad-4fa7-a126-8a11fb304ef0.webp?v=1707337842</g:additional_image_link>
             <g:average_review_rating>5</g:average_review_rating>
             <g:number_of_ratings>25</g:number_of_ratings>
             <g:number_of_reviews>25</g:number_of_reviews>
@@ -4988,7 +4912,7 @@
             <g:group_id>MOD61</g:group_id>
             <g:brand>Sofá na Caixa</g:brand>
             <g:mpn>6QP628A07O</g:mpn>
-            <g:size_system>BRL</g:size_system>
+            <g:size_system>BR</g:size_system>
             <g:variant_names>Cor</g:variant_names>
             <g:variant_values>Cinza, Linho</g:variant_values>
             <g:color>Linho</g:color>
@@ -5008,14 +4932,12 @@
             <g:sale_price>5700.00 BRL</g:sale_price>
             <g:product_type>House &gt; Furniture &gt; Sofa &gt; Sofa Modular</g:product_type>
             <g:additional_image_link>
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_6-lugares-2-cantos-2-puff-L_bege_esquerda_75cfb605-3699-4f14-a615-ed64b066d8f9.webp?v=1706555054,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_6-lugares-2-cantos-2-puff-L_dimensoes_bege_24a0a194-4682-4cf2-b0c0-6e26768f5333.webp?v=1712239811,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_6-lugares-2-cantos-2-puff-L_ambiente-1_4cff7fde-b1d9-42f1-8cf9-5754bd4540f6.webp?v=1712239811,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_beneficios_50c617a3-9c64-4a48-8ed4-89f0148c3ad7.webp?v=1712239811,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_6-lugares-2-cantos-2-puff-L_ambiente-2_9a64832a-7a13-477d-ba37-022baa0b9519.webp?v=1712239811,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-1_beed0a38-af26-45aa-bceb-60566c00d2da.webp?v=1712239811,
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-3_89e6b765-db27-4c60-8022-8eeabb295a35.webp?v=1712239811,
-                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-6_09dfc25f-1b28-43de-a8ed-01ffb9edcdee.webp?v=1712239811</g:additional_image_link>
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-3_89e6b765-db27-4c60-8022-8eeabb295a35.webp?v=1712239811</g:additional_image_link>
             <g:average_review_rating>5</g:average_review_rating>
             <g:number_of_ratings>25</g:number_of_ratings>
             <g:number_of_reviews>25</g:number_of_reviews>
@@ -5138,7 +5060,7 @@
             <g:group_id>MOD62</g:group_id>
             <g:brand>Sofá na Caixa</g:brand>
             <g:mpn>4AHB7R6M8R</g:mpn>
-            <g:size_system>BRL</g:size_system>
+            <g:size_system>BR</g:size_system>
             <g:variant_names>Cor</g:variant_names>
             <g:variant_values>Cinza, Linho</g:variant_values>
             <g:color>Linho</g:color>
