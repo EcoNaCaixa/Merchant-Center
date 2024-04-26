@@ -15,9 +15,9 @@
             <g:sale_price>170.05 BRL</g:sale_price>
             <g:product_type>House &gt; Furniture &gt; Sofa &gt; Sofa Modular</g:product_type>
             <g:additional_image_link />
-            <g:average_review_rating>5</g:average_review_rating>
-            <g:number_of_ratings>25</g:number_of_ratings>
-            <g:number_of_reviews>25</g:number_of_reviews>
+            <g:average_review_rating>0</g:average_review_rating>
+            <g:number_of_ratings>0</g:number_of_ratings>
+            <g:number_of_reviews>0</g:number_of_reviews>
             <g:description_html>Com uma estampa exclusiva e vibrante, esta almofada é perfeita para
                 adicionar personalidade e charme a qualquer ambiente. O enchimento super confortável
                 proporciona um apoio macio e relaxante, ideal para descansar após um longo dia.
@@ -49,9 +49,9 @@
             <g:sale_price>170.05 BRL</g:sale_price>
             <g:product_type>House &gt; Furniture &gt; Sofa &gt; Sofa Modular</g:product_type>
             <g:additional_image_link />
-            <g:average_review_rating>5</g:average_review_rating>
-            <g:number_of_ratings>25</g:number_of_ratings>
-            <g:number_of_reviews>25</g:number_of_reviews>
+            <g:average_review_rating>0</g:average_review_rating>
+            <g:number_of_ratings>0</g:number_of_ratings>
+            <g:number_of_reviews>0</g:number_of_reviews>
             <g:description_html>Com uma estampa exclusiva e vibrante, esta almofada é perfeita para
                 adicionar personalidade e charme a qualquer ambiente. O enchimento super confortável
                 proporciona um apoio macio e relaxante, ideal para descansar após um longo dia.
@@ -82,9 +82,9 @@
             <g:sale_price>170.05 BRL</g:sale_price>
             <g:product_type>House &gt; Furniture &gt; Sofa &gt; Sofa Modular</g:product_type>
             <g:additional_image_link />
-            <g:average_review_rating>5</g:average_review_rating>
-            <g:number_of_ratings>25</g:number_of_ratings>
-            <g:number_of_reviews>25</g:number_of_reviews>
+            <g:average_review_rating>0</g:average_review_rating>
+            <g:number_of_ratings>0</g:number_of_ratings>
+            <g:number_of_reviews>0</g:number_of_reviews>
             <g:description_html>Com uma estampa exclusiva e vibrante, esta almofada é perfeita para
                 adicionar personalidade e charme a qualquer ambiente. O enchimento super confortável
                 proporciona um apoio macio e relaxante, ideal para descansar após um longo dia.
@@ -115,9 +115,9 @@
             <g:sale_price>170.05 BRL</g:sale_price>
             <g:product_type>House &gt; Furniture &gt; Sofa &gt; Sofa Modular</g:product_type>
             <g:additional_image_link />
-            <g:average_review_rating>5</g:average_review_rating>
-            <g:number_of_ratings>25</g:number_of_ratings>
-            <g:number_of_reviews>25</g:number_of_reviews>
+            <g:average_review_rating>0</g:average_review_rating>
+            <g:number_of_ratings>0</g:number_of_ratings>
+            <g:number_of_reviews>0</g:number_of_reviews>
             <g:description_html>Com uma estampa exclusiva e vibrante, esta almofada é perfeita para
                 adicionar personalidade e charme a qualquer ambiente. O enchimento super confortável
                 proporciona um apoio macio e relaxante, ideal para descansar após um longo dia.
@@ -132,6 +132,37 @@
             <g:variant_names>Cor</g:variant_names>
             <g:variant_values>Cinza, Linho</g:variant_values>
             <g:color>Almofada Estampada Exclusiva Sofá na Caixa Tucano 40X40cm</g:color>
+            <g:google_product_category>Móveis &gt; Sofás</g:google_product_category>
+            <g:condition>new</g:condition>
+        </item>
+        <item>
+            <g:id>shopify_BR_9347028517181_48571866480957</g:id>
+            <g:title>Apoio para o pé - Sofá na Caixa - Azul</g:title>
+            <g:description>Apoio para o pé - Sofá na Caixa - Azul</g:description>
+            <g:link>
+                https://sofanacaixa.com.br/products/sofa-modular-soft-de-1-lugar-sem-encosto-estilo-puff-azul</g:link>
+            <g:image_link>
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/912f9647967c890ee2dd3fc27dac3894.webp?v=1714139389</g:image_link>
+            <g:availability>in stock</g:availability>
+            <g:price>1354.50 BRL</g:price>
+            <g:sale_price>1225.50 BRL</g:sale_price>
+            <g:product_type>House &gt; Furniture &gt; Sofa &gt; Sofa Modular</g:product_type>
+            <g:additional_image_link>
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/84afafd22882fb3e79978de86db78672.webp?v=1714139389,
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/a3a426cc1198d4723af0328298812040.webp?v=1714139389</g:additional_image_link>
+            <g:average_review_rating>5</g:average_review_rating>
+            <g:number_of_ratings>25</g:number_of_ratings>
+            <g:number_of_reviews>25</g:number_of_reviews>
+            <g:description_html />
+            <g:video_link>
+                https://www.youtube.com/watch?v=7sykq-xZWww&amp;t=2s&amp;ab_channel=Sof%C3%A1naCaixa</g:video_link>
+            <g:group_id>0</g:group_id>
+            <g:brand>Sofá na Caixa</g:brand>
+            <g:mpn>HGENS7321B</g:mpn>
+            <g:size_system>BR</g:size_system>
+            <g:variant_names>Cor</g:variant_names>
+            <g:variant_values>Cinza, Linho</g:variant_values>
+            <g:color>Azul</g:color>
             <g:google_product_category>Móveis &gt; Sofás</g:google_product_category>
             <g:condition>new</g:condition>
         </item>
@@ -400,9 +431,9 @@
             <g:additional_image_link>
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/05d40090234872f9e8f148617bb76e01.webp?v=1712097844,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/26197199e2d735807ee684cc7649369a.webp?v=1712097844</g:additional_image_link>
-            <g:average_review_rating>5</g:average_review_rating>
-            <g:number_of_ratings>25</g:number_of_ratings>
-            <g:number_of_reviews>25</g:number_of_reviews>
+            <g:average_review_rating>0</g:average_review_rating>
+            <g:number_of_ratings>0</g:number_of_ratings>
+            <g:number_of_reviews>0</g:number_of_reviews>
             <g:description_html>Dê um passo extra de estilo e conforto com nossas meias exclusivas!
                 Cada par apresenta uma estampa única para dar aquele toque de originalidade ao seu
                 look. Feitas com materiais de primeira qualidade, são perfeitas para elevar o seu
@@ -416,6 +447,36 @@
             <g:variant_names>Cor</g:variant_names>
             <g:variant_values>Cinza, Linho</g:variant_values>
             <g:color>Tamanho único</g:color>
+            <g:google_product_category>Móveis &gt; Sofás</g:google_product_category>
+            <g:condition>new</g:condition>
+        </item>
+        <item>
+            <g:id>shopify_BR_9347033301309_48571878113597</g:id>
+            <g:title>Sofá na Caixa modular 1 lugar Canto em Boucle - Azul</g:title>
+            <g:description>Sofá na Caixa modular 1 lugar Canto em Boucle - Azul</g:description>
+            <g:link>https://sofanacaixa.com.br/products/sofa-na-caixa-puff-canto-azul</g:link>
+            <g:image_link>
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/06704b52669bdcba0cc1f5df8750c466.webp?v=1714139724</g:image_link>
+            <g:availability>in stock</g:availability>
+            <g:price>2154.60 BRL</g:price>
+            <g:sale_price>1949.40 BRL</g:sale_price>
+            <g:product_type>House &gt; Furniture &gt; Sofa &gt; Sofa Modular</g:product_type>
+            <g:additional_image_link>
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/b10afce949dfc5df5a7394e8cbd30140.webp?v=1714139724,
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/f6e731014bfc78201c6ad3c637f8e5a5.webp?v=1714139724</g:additional_image_link>
+            <g:average_review_rating>5</g:average_review_rating>
+            <g:number_of_ratings>25</g:number_of_ratings>
+            <g:number_of_reviews>25</g:number_of_reviews>
+            <g:description_html />
+            <g:video_link>
+                https://www.youtube.com/watch?v=7sykq-xZWww&amp;t=2s&amp;ab_channel=Sof%C3%A1naCaixa</g:video_link>
+            <g:group_id>0</g:group_id>
+            <g:brand>Sofá na Caixa</g:brand>
+            <g:mpn>WZALC3674X</g:mpn>
+            <g:size_system>BR</g:size_system>
+            <g:variant_names>Cor</g:variant_names>
+            <g:variant_values>Cinza, Linho</g:variant_values>
+            <g:color>Azul</g:color>
             <g:google_product_category>Móveis &gt; Sofás</g:google_product_category>
             <g:condition>new</g:condition>
         </item>
@@ -682,6 +743,36 @@
             <g:condition>new</g:condition>
         </item>
         <item>
+            <g:id>shopify_BR_9347035136317_48571882242365</g:id>
+            <g:title>Sofá na Caixa modular 1 lugar Poltrona em Boucle - Blue</g:title>
+            <g:description>Sofá na Caixa modular 1 lugar Poltrona em Boucle - Blue</g:description>
+            <g:link>
+                https://sofanacaixa.com.br/products/sofa-na-caixa-modular-1-lugar-poltrona-em-boucle-blue</g:link>
+            <g:image_link>
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/b902d4babce8090e72333da9d10a8516.webp?v=1714139842</g:image_link>
+            <g:availability>in stock</g:availability>
+            <g:price>1848.00 BRL</g:price>
+            <g:sale_price>1672.00 BRL</g:sale_price>
+            <g:product_type>House &gt; Furniture &gt; Sofa &gt; Sofa Modular</g:product_type>
+            <g:additional_image_link>
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/e567f74091c4bc43b9c106ac24d3e23d.webp?v=1714139842</g:additional_image_link>
+            <g:average_review_rating>5</g:average_review_rating>
+            <g:number_of_ratings>25</g:number_of_ratings>
+            <g:number_of_reviews>25</g:number_of_reviews>
+            <g:description_html />
+            <g:video_link>
+                https://www.youtube.com/watch?v=7sykq-xZWww&amp;t=2s&amp;ab_channel=Sof%C3%A1naCaixa</g:video_link>
+            <g:group_id>0</g:group_id>
+            <g:brand>Sofá na Caixa</g:brand>
+            <g:mpn>GMAX2468E</g:mpn>
+            <g:size_system>BR</g:size_system>
+            <g:variant_names>Cor</g:variant_names>
+            <g:variant_values>Cinza, Linho</g:variant_values>
+            <g:color>Blue</g:color>
+            <g:google_product_category>Móveis &gt; Sofás</g:google_product_category>
+            <g:condition>new</g:condition>
+        </item>
+        <item>
             <g:id>shopify_BR_8961210286397_47491598451005</g:id>
             <g:title>Sofá na Caixa modular 1 lugar Poltrona em Boucle - Cinza</g:title>
             <g:description>Sofá na Caixa modular 1 lugar Poltrona em Boucle - Cinza</g:description>
@@ -828,9 +919,9 @@
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_1-lugar_bege_esquerda_c1cca1d5-8a4a-4f2f-9c0b-9d0081769740.webp?v=1707333202,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_beneficios_V2_1e652037-d952-41f9-9b59-13a55e7a7937.webp?v=1707333202,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-1_05d0c29c-9913-46e8-bc83-d5bc79e05ebb.webp?v=1707333202</g:additional_image_link>
-            <g:average_review_rating>5</g:average_review_rating>
-            <g:number_of_ratings>25</g:number_of_ratings>
-            <g:number_of_reviews>25</g:number_of_reviews>
+            <g:average_review_rating>0</g:average_review_rating>
+            <g:number_of_ratings>0</g:number_of_ratings>
+            <g:number_of_reviews>0</g:number_of_reviews>
             <g:description_html> &lt;div class="dimensions-product"&gt;&lt;h4&gt;Dimensões do
                 produto&lt;/h4&gt;&lt;/div&gt;
 
@@ -940,6 +1031,98 @@
             <g:variant_names>Cor</g:variant_names>
             <g:variant_values>Cinza, Linho</g:variant_values>
             <g:color>Linho</g:color>
+            <g:google_product_category>Móveis &gt; Sofás</g:google_product_category>
+            <g:condition>new</g:condition>
+        </item>
+        <item>
+            <g:id>shopify_BR_9347051946301_48571919565117</g:id>
+            <g:title>Sofá na Caixa modular 2 lugares em Boucle - Azul</g:title>
+            <g:description>Sofá na Caixa modular 2 lugares em Boucle - Azul</g:description>
+            <g:link>
+                https://sofanacaixa.com.br/products/sofa-na-caixa-modular-2-lugares-em-boucle-azul</g:link>
+            <g:image_link>
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/154ba56d26cfd9c097667e117e711e13.webp?v=1714140678</g:image_link>
+            <g:availability>in stock</g:availability>
+            <g:price>3900.00 BRL</g:price>
+            <g:sale_price>2500.40 BRL</g:sale_price>
+            <g:product_type>House &gt; Furniture &gt; Sofa &gt; Sofa Modular</g:product_type>
+            <g:additional_image_link>
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/a08237d22da1314f8f06b8fab5e667dc.webp?v=1714140678,
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/9a589984aa637dce4f941fbde0ae796a.webp?v=1714140678</g:additional_image_link>
+            <g:average_review_rating>5</g:average_review_rating>
+            <g:number_of_ratings>25</g:number_of_ratings>
+            <g:number_of_reviews>25</g:number_of_reviews>
+            <g:description_html />
+            <g:video_link>
+                https://www.youtube.com/watch?v=7sykq-xZWww&amp;t=2s&amp;ab_channel=Sof%C3%A1naCaixa</g:video_link>
+            <g:group_id>MOD21</g:group_id>
+            <g:brand>Sofá na Caixa</g:brand>
+            <g:mpn>JIRP5732D</g:mpn>
+            <g:size_system>BR</g:size_system>
+            <g:variant_names>Cor</g:variant_names>
+            <g:variant_values>Cinza, Linho</g:variant_values>
+            <g:color>Azul</g:color>
+            <g:google_product_category>Móveis &gt; Sofás</g:google_product_category>
+            <g:condition>new</g:condition>
+        </item>
+        <item>
+            <g:id>shopify_BR_9347054305597_48571923759421</g:id>
+            <g:title>Sofá na Caixa modular 2 lugares em Boucle - Azul</g:title>
+            <g:description>Sofá na Caixa modular 2 lugares em Boucle - Azul</g:description>
+            <g:link>
+                https://sofanacaixa.com.br/products/sofa-na-caixa-modular-2-lugares-em-boucle-linho</g:link>
+            <g:image_link>
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/8a402dd587800b13b6c7fc17cb2d0ece_96d9d781-3661-4ac1-a725-0abad8b0488c.webp?v=1714142860</g:image_link>
+            <g:availability>in stock</g:availability>
+            <g:price>3340.00 BRL</g:price>
+            <g:sale_price>2140.35 BRL</g:sale_price>
+            <g:product_type>House &gt; Furniture &gt; Sofa &gt; Sofa Modular</g:product_type>
+            <g:additional_image_link>
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/716bb6905d4b7c9d3542237d3a7cf6cc_55fd9287-a793-4aac-992c-a625e5abdcca.webp?v=1714142860,
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/8788a26021cace0fe29d3a2d65b50d0f_617a0c80-f5ed-4be0-8548-6f13fc4f617b.webp?v=1714142860</g:additional_image_link>
+            <g:average_review_rating>5</g:average_review_rating>
+            <g:number_of_ratings>25</g:number_of_ratings>
+            <g:number_of_reviews>25</g:number_of_reviews>
+            <g:description_html />
+            <g:video_link>
+                https://www.youtube.com/watch?v=7sykq-xZWww&amp;t=2s&amp;ab_channel=Sof%C3%A1naCaixa</g:video_link>
+            <g:group_id>MOD23</g:group_id>
+            <g:brand>Sofá na Caixa</g:brand>
+            <g:mpn>VQLO1983F</g:mpn>
+            <g:size_system>BR</g:size_system>
+            <g:variant_names>Cor</g:variant_names>
+            <g:variant_values>Cinza, Linho</g:variant_values>
+            <g:color>Azul</g:color>
+            <g:google_product_category>Móveis &gt; Sofás</g:google_product_category>
+            <g:condition>new</g:condition>
+        </item>
+        <item>
+            <g:id>shopify_BR_9347057484093_48571935588669</g:id>
+            <g:title>Sofá na Caixa modular 2 lugares em Boucle - Azul</g:title>
+            <g:description>Sofá na Caixa modular 2 lugares em Boucle - Azul</g:description>
+            <g:link>
+                https://sofanacaixa.com.br/products/sofa-na-caixa-modular-2-lugares-em-boucle-azul-1</g:link>
+            <g:image_link>
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/b9daeb82bb61167a3a1ad3a278f5738e.webp?v=1714141002</g:image_link>
+            <g:availability>in stock</g:availability>
+            <g:price>3620.00 BRL</g:price>
+            <g:sale_price>2319.90 BRL</g:sale_price>
+            <g:product_type>House &gt; Furniture &gt; Sofa &gt; Sofa Modular</g:product_type>
+            <g:additional_image_link>
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/aa3b2bfcb4f1574142ec92a69c8be995.webp?v=1714141002</g:additional_image_link>
+            <g:average_review_rating>5</g:average_review_rating>
+            <g:number_of_ratings>25</g:number_of_ratings>
+            <g:number_of_reviews>25</g:number_of_reviews>
+            <g:description_html />
+            <g:video_link>
+                https://www.youtube.com/watch?v=7sykq-xZWww&amp;t=2s&amp;ab_channel=Sof%C3%A1naCaixa</g:video_link>
+            <g:group_id>MOD22</g:group_id>
+            <g:brand>Sofá na Caixa</g:brand>
+            <g:mpn>NDIX7326G</g:mpn>
+            <g:size_system>BR</g:size_system>
+            <g:variant_names>Cor</g:variant_names>
+            <g:variant_values>Cinza, Linho</g:variant_values>
+            <g:color>Azul</g:color>
             <g:google_product_category>Móveis &gt; Sofás</g:google_product_category>
             <g:condition>new</g:condition>
         </item>
@@ -1817,6 +2000,98 @@
             <g:variant_names>Cor</g:variant_names>
             <g:variant_values>Cinza, Linho</g:variant_values>
             <g:color>Linho</g:color>
+            <g:google_product_category>Móveis &gt; Sofás</g:google_product_category>
+            <g:condition>new</g:condition>
+        </item>
+        <item>
+            <g:id>shopify_BR_9347063087421_48571949809981</g:id>
+            <g:title>Sofá na Caixa modular 3 lugares em Boucle - Azul</g:title>
+            <g:description>Sofá na Caixa modular 3 lugares em Boucle - Azul</g:description>
+            <g:link>
+                https://sofanacaixa.com.br/products/sofa-na-caixa-modular-3-lugares-em-boucle-azul</g:link>
+            <g:image_link>
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/672f39eb875549114fba57494f77ad10.webp?v=1714141293</g:image_link>
+            <g:availability>in stock</g:availability>
+            <g:price>4845.00 BRL</g:price>
+            <g:sale_price>3099.85 BRL</g:sale_price>
+            <g:product_type>House &gt; Furniture &gt; Sofa &gt; Sofa Modular</g:product_type>
+            <g:additional_image_link>
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/de285348c635fe866606b9f6ee37cac0.webp?v=1714141293,
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/dce5d9df218b8750c4492718de6d6218.webp?v=1714141293</g:additional_image_link>
+            <g:average_review_rating>5</g:average_review_rating>
+            <g:number_of_ratings>25</g:number_of_ratings>
+            <g:number_of_reviews>25</g:number_of_reviews>
+            <g:description_html />
+            <g:video_link>
+                https://www.youtube.com/watch?v=7sykq-xZWww&amp;t=2s&amp;ab_channel=Sof%C3%A1naCaixa</g:video_link>
+            <g:group_id>MOD33</g:group_id>
+            <g:brand>Sofá na Caixa</g:brand>
+            <g:mpn>ZPTW6154H</g:mpn>
+            <g:size_system>BR</g:size_system>
+            <g:variant_names>Cor</g:variant_names>
+            <g:variant_values>Cinza, Linho</g:variant_values>
+            <g:color>Azul</g:color>
+            <g:google_product_category>Móveis &gt; Sofás</g:google_product_category>
+            <g:condition>new</g:condition>
+        </item>
+        <item>
+            <g:id>shopify_BR_9347066036541_48571955937597</g:id>
+            <g:title>Sofá na Caixa modular 3 lugares em Boucle - Azul</g:title>
+            <g:description>Sofá na Caixa modular 3 lugares em Boucle - Azul</g:description>
+            <g:link>
+                https://sofanacaixa.com.br/products/sofa-na-caixa-modular-3-lugares-em-boucle-azul-1</g:link>
+            <g:image_link>
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/25896b9f613a4ea099f7b7242eb7fd59.webp?v=1714141460</g:image_link>
+            <g:availability>in stock</g:availability>
+            <g:price>5570.00 BRL</g:price>
+            <g:sale_price>3450.40 BRL</g:sale_price>
+            <g:product_type>House &gt; Furniture &gt; Sofa &gt; Sofa Modular</g:product_type>
+            <g:additional_image_link>
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/83326eddb5450ff054fd0ec40ae7b020.webp?v=1714141460</g:additional_image_link>
+            <g:average_review_rating>5</g:average_review_rating>
+            <g:number_of_ratings>25</g:number_of_ratings>
+            <g:number_of_reviews>25</g:number_of_reviews>
+            <g:description_html />
+            <g:video_link>
+                https://www.youtube.com/watch?v=7sykq-xZWww&amp;t=2s&amp;ab_channel=Sof%C3%A1naCaixa</g:video_link>
+            <g:group_id>MOD32</g:group_id>
+            <g:brand>Sofá na Caixa</g:brand>
+            <g:mpn>YURC4790I</g:mpn>
+            <g:size_system>BR</g:size_system>
+            <g:variant_names>Cor</g:variant_names>
+            <g:variant_values>Cinza, Linho</g:variant_values>
+            <g:color>Azul</g:color>
+            <g:google_product_category>Móveis &gt; Sofás</g:google_product_category>
+            <g:condition>new</g:condition>
+        </item>
+        <item>
+            <g:id>shopify_BR_9347074588989_48571980120381</g:id>
+            <g:title>Sofá na Caixa modular 3 lugares em Boucle - Azul</g:title>
+            <g:description>Sofá na Caixa modular 3 lugares em Boucle - Azul</g:description>
+            <g:link>
+                https://sofanacaixa.com.br/products/sofa-na-caixa-modular-3-lugares-em-boucle-azul-2</g:link>
+            <g:image_link>
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/f929f1f7597cb9eaaafe11a5256e6dfe.webp?v=1714141883</g:image_link>
+            <g:availability>in stock</g:availability>
+            <g:price>5290.00 BRL</g:price>
+            <g:sale_price>3280.35 BRL</g:sale_price>
+            <g:product_type>House &gt; Furniture &gt; Sofa &gt; Sofa Modular</g:product_type>
+            <g:additional_image_link>
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/8046ddc5e6adbd8dbb6689ab8d71d184.webp?v=1714141883,
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/29ff9b81fe693b0cf90bcf78ce4b2d7c.webp?v=1714141883</g:additional_image_link>
+            <g:average_review_rating>5</g:average_review_rating>
+            <g:number_of_ratings>25</g:number_of_ratings>
+            <g:number_of_reviews>25</g:number_of_reviews>
+            <g:description_html />
+            <g:video_link>
+                https://www.youtube.com/watch?v=7sykq-xZWww&amp;t=2s&amp;ab_channel=Sof%C3%A1naCaixa</g:video_link>
+            <g:group_id>0</g:group_id>
+            <g:brand>Sofá na Caixa</g:brand>
+            <g:mpn>KMLX3851K</g:mpn>
+            <g:size_system>BR</g:size_system>
+            <g:variant_names>Cor</g:variant_names>
+            <g:variant_values>Cinza, Linho</g:variant_values>
+            <g:color>Azul</g:color>
             <g:google_product_category>Móveis &gt; Sofás</g:google_product_category>
             <g:condition>new</g:condition>
         </item>
@@ -2699,6 +2974,127 @@
             <g:variant_names>Cor</g:variant_names>
             <g:variant_values>Cinza, Linho</g:variant_values>
             <g:color>Linho</g:color>
+            <g:google_product_category>Móveis &gt; Sofás</g:google_product_category>
+            <g:condition>new</g:condition>
+        </item>
+        <item>
+            <g:id>shopify_BR_9347047162173_48571912061245</g:id>
+            <g:title>Sofá na Caixa modular 4 lugares em Boucle - Azul</g:title>
+            <g:description>Sofá na Caixa modular 4 lugares em Boucle - Azul</g:description>
+            <g:link>
+                https://sofanacaixa.com.br/products/sofa-na-caixa-modular-4-lugares-em-boucle-2cantos-1puff-azul</g:link>
+            <g:image_link>
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/e5cf121841fc19deddcedd878b72e6cf.webp?v=1714140467</g:image_link>
+            <g:availability>in stock</g:availability>
+            <g:price>6795.00 BRL</g:price>
+            <g:sale_price>4199.95 BRL</g:sale_price>
+            <g:product_type>House &gt; Furniture &gt; Sofa &gt; Sofa Modular</g:product_type>
+            <g:additional_image_link>
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/490c0a2dda861d99a84bee0d05887ac2.webp?v=1714140467</g:additional_image_link>
+            <g:average_review_rating>5</g:average_review_rating>
+            <g:number_of_ratings>25</g:number_of_ratings>
+            <g:number_of_reviews>25</g:number_of_reviews>
+            <g:description_html />
+            <g:video_link>
+                https://www.youtube.com/watch?v=7sykq-xZWww&amp;t=2s&amp;ab_channel=Sof%C3%A1naCaixa</g:video_link>
+            <g:group_id>0</g:group_id>
+            <g:brand>Sofá na Caixa</g:brand>
+            <g:mpn>SJIRA8139H</g:mpn>
+            <g:size_system>BR</g:size_system>
+            <g:variant_names>Cor</g:variant_names>
+            <g:variant_values>Cinza, Linho</g:variant_values>
+            <g:color>Azul</g:color>
+            <g:google_product_category>Móveis &gt; Sofás</g:google_product_category>
+            <g:condition>new</g:condition>
+        </item>
+        <item>
+            <g:id>shopify_BR_9347057647933_48571935752509</g:id>
+            <g:title>Sofá na Caixa modular 4 lugares em Boucle - Azul</g:title>
+            <g:description>Sofá na Caixa modular 4 lugares em Boucle - Azul</g:description>
+            <g:link>
+                https://sofanacaixa.com.br/products/sofa-na-caixa-modular-4-lugares-em-boucle-1cantos-1puff-azul</g:link>
+            <g:image_link>
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/dd63a866f24348d531c0b68ecee23304.webp?v=1714141011</g:image_link>
+            <g:availability>in stock</g:availability>
+            <g:price>6795.00 BRL</g:price>
+            <g:sale_price>4199.95 BRL</g:sale_price>
+            <g:product_type>House &gt; Furniture &gt; Sofa &gt; Sofa Modular</g:product_type>
+            <g:additional_image_link>
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/decba866c98d3d732706278960dce635.webp?v=1714141011</g:additional_image_link>
+            <g:average_review_rating>5</g:average_review_rating>
+            <g:number_of_ratings>25</g:number_of_ratings>
+            <g:number_of_reviews>25</g:number_of_reviews>
+            <g:description_html />
+            <g:video_link>
+                https://www.youtube.com/watch?v=7sykq-xZWww&amp;t=2s&amp;ab_channel=Sof%C3%A1naCaixa</g:video_link>
+            <g:group_id>0</g:group_id>
+            <g:brand>Sofá na Caixa</g:brand>
+            <g:mpn>PTHYU5482N</g:mpn>
+            <g:size_system>BR</g:size_system>
+            <g:variant_names>Cor</g:variant_names>
+            <g:variant_values>Cinza, Linho</g:variant_values>
+            <g:color>Azul</g:color>
+            <g:google_product_category>Móveis &gt; Sofás</g:google_product_category>
+            <g:condition>new</g:condition>
+        </item>
+        <item>
+            <g:id>shopify_BR_9347064070461_48571952300349</g:id>
+            <g:title>Sofá na Caixa modular 4 lugares em Boucle - Azul</g:title>
+            <g:description>Sofá na Caixa modular 4 lugares em Boucle - Azul</g:description>
+            <g:link>
+                https://sofanacaixa.com.br/products/sofa-na-caixa-modular-4-lugares-em-boucle-puff-1canto-azul</g:link>
+            <g:image_link>
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/e6854cb29386c7622e49fcbfde5d84fa.webp?v=1714141357</g:image_link>
+            <g:availability>in stock</g:availability>
+            <g:price>6795.00 BRL</g:price>
+            <g:sale_price>4199.95 BRL</g:sale_price>
+            <g:product_type>House &gt; Furniture &gt; Sofa &gt; Sofa Modular</g:product_type>
+            <g:additional_image_link>
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/fae130d5461758a63db231ae79657e4e.webp?v=1714141357</g:additional_image_link>
+            <g:average_review_rating>5</g:average_review_rating>
+            <g:number_of_ratings>25</g:number_of_ratings>
+            <g:number_of_reviews>25</g:number_of_reviews>
+            <g:description_html />
+            <g:video_link>
+                https://www.youtube.com/watch?v=7sykq-xZWww&amp;t=2s&amp;ab_channel=Sof%C3%A1naCaixa</g:video_link>
+            <g:group_id>MOD43</g:group_id>
+            <g:brand>Sofá na Caixa</g:brand>
+            <g:mpn>ZYXWV5432G</g:mpn>
+            <g:size_system>BR</g:size_system>
+            <g:variant_names>Cor</g:variant_names>
+            <g:variant_values>Cinza, Linho</g:variant_values>
+            <g:color>Azul</g:color>
+            <g:google_product_category>Móveis &gt; Sofás</g:google_product_category>
+            <g:condition>new</g:condition>
+        </item>
+        <item>
+            <g:id>shopify_BR_9347068920125_48571966914877</g:id>
+            <g:title>Sofá na Caixa modular 4 lugares em Boucle - Azul</g:title>
+            <g:description>Sofá na Caixa modular 4 lugares em Boucle - Azul</g:description>
+            <g:link>
+                https://sofanacaixa.com.br/products/sofa-na-caixa-modular-4-lugares-em-boucle-puff-2canto-azul</g:link>
+            <g:image_link>
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/39367a12d4be385351f4626061ee0b1a.webp?v=1714141625</g:image_link>
+            <g:availability>in stock</g:availability>
+            <g:price>6151.00 BRL</g:price>
+            <g:sale_price>4040.35 BRL</g:sale_price>
+            <g:product_type>House &gt; Furniture &gt; Sofa &gt; Sofa Modular</g:product_type>
+            <g:additional_image_link>
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/c1c7e7ed4b2044f169b71aeef044615e.webp?v=1714141625,
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/3cd21f9de3c96cff868a3876d862908b.webp?v=1714141625</g:additional_image_link>
+            <g:average_review_rating>5</g:average_review_rating>
+            <g:number_of_ratings>25</g:number_of_ratings>
+            <g:number_of_reviews>25</g:number_of_reviews>
+            <g:description_html />
+            <g:video_link>
+                https://www.youtube.com/watch?v=7sykq-xZWww&amp;t=2s&amp;ab_channel=Sof%C3%A1naCaixa</g:video_link>
+            <g:group_id>MOD42</g:group_id>
+            <g:brand>Sofá na Caixa</g:brand>
+            <g:mpn>LMNOP6789H</g:mpn>
+            <g:size_system>BR</g:size_system>
+            <g:variant_names>Cor</g:variant_names>
+            <g:variant_values>Cinza, Linho</g:variant_values>
+            <g:color>Azul</g:color>
             <g:google_product_category>Móveis &gt; Sofás</g:google_product_category>
             <g:condition>new</g:condition>
         </item>
@@ -3884,6 +4280,66 @@
             <g:condition>new</g:condition>
         </item>
         <item>
+            <g:id>shopify_BR_9347075670333_48571981758781</g:id>
+            <g:title>Sofá na Caixa modular 5 lugares em Boucle - Azul</g:title>
+            <g:description>Sofá na Caixa modular 5 lugares em Boucle - Azul</g:description>
+            <g:link>
+                https://sofanacaixa.com.br/products/sofa-na-caixa-modular-5-lugares-em-boucle-1canto-2apoio-azul</g:link>
+            <g:image_link>
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/b0bda2f503de8ca888d271bc3df8949f.webp?v=1714141926</g:image_link>
+            <g:availability>in stock</g:availability>
+            <g:price>7740.00 BRL</g:price>
+            <g:sale_price>4769.95 BRL</g:sale_price>
+            <g:product_type>House &gt; Furniture &gt; Sofa &gt; Sofa Modular</g:product_type>
+            <g:additional_image_link>
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/2d6674775348877d592dde1b3c7aecba.webp?v=1714141926</g:additional_image_link>
+            <g:average_review_rating>5</g:average_review_rating>
+            <g:number_of_ratings>25</g:number_of_ratings>
+            <g:number_of_reviews>25</g:number_of_reviews>
+            <g:description_html />
+            <g:video_link>
+                https://www.youtube.com/watch?v=7sykq-xZWww&amp;t=2s&amp;ab_channel=Sof%C3%A1naCaixa</g:video_link>
+            <g:group_id>0</g:group_id>
+            <g:brand>Sofá na Caixa</g:brand>
+            <g:mpn>OP7890QR12S</g:mpn>
+            <g:size_system>BR</g:size_system>
+            <g:variant_names>Cor</g:variant_names>
+            <g:variant_values>Cinza, Linho</g:variant_values>
+            <g:color>Azul</g:color>
+            <g:google_product_category>Móveis &gt; Sofás</g:google_product_category>
+            <g:condition>new</g:condition>
+        </item>
+        <item>
+            <g:id>shopify_BR_9347079668029_48571992834365</g:id>
+            <g:title>Sofá na Caixa modular 5 lugares em Boucle - Azul</g:title>
+            <g:description>Sofá na Caixa modular 5 lugares em Boucle - Azul</g:description>
+            <g:link>
+                https://sofanacaixa.com.br/products/sofa-na-caixa-modular-5-lugares-em-boucle-2canto-2puffs-azul</g:link>
+            <g:image_link>
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/736aec24ea8cba0d605004d431734617.webp?v=1714142139</g:image_link>
+            <g:availability>in stock</g:availability>
+            <g:price>7740.00 BRL</g:price>
+            <g:sale_price>4769.95 BRL</g:sale_price>
+            <g:product_type>House &gt; Furniture &gt; Sofa &gt; Sofa Modular</g:product_type>
+            <g:additional_image_link>
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/3086a07ef52d9955b2544a62775f2e1d.webp?v=1714142139</g:additional_image_link>
+            <g:average_review_rating>5</g:average_review_rating>
+            <g:number_of_ratings>25</g:number_of_ratings>
+            <g:number_of_reviews>25</g:number_of_reviews>
+            <g:description_html />
+            <g:video_link>
+                https://www.youtube.com/watch?v=7sykq-xZWww&amp;t=2s&amp;ab_channel=Sof%C3%A1naCaixa</g:video_link>
+            <g:group_id>0</g:group_id>
+            <g:brand>Sofá na Caixa</g:brand>
+            <g:mpn>GH5678IJ90K</g:mpn>
+            <g:size_system>BR</g:size_system>
+            <g:variant_names>Cor</g:variant_names>
+            <g:variant_values>Cinza, Linho</g:variant_values>
+            <g:color>Azul</g:color>
+            <g:google_product_category>Móveis &gt; Sofás</g:google_product_category>
+            <g:condition>new</g:condition>
+        </item>
+        <item>
             <g:id>shopify_BR_8979436437821_47529495593277</g:id>
             <g:title>Sofá na Caixa modular 5 lugares em Boucle - Cinza</g:title>
             <g:description>Sofá na Caixa modular 5 lugares em Boucle - Cinza</g:description>
@@ -4476,6 +4932,65 @@
             <g:condition>new</g:condition>
         </item>
         <item>
+            <g:id>shopify_BR_9347079176509_48571992047933</g:id>
+            <g:title>Sofá na Caixa modular 6 lugares em Boucle - Azul</g:title>
+            <g:description>Sofá na Caixa modular 6 lugares em Boucle - Azul</g:description>
+            <g:link>
+                https://sofanacaixa.com.br/products/sofa-na-caixa-modular-6-lugares-em-boucle-azul</g:link>
+            <g:image_link>
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/3f697b83f45ad7739fc6d31fb78f64b1.webp?v=1714142114</g:image_link>
+            <g:availability>in stock</g:availability>
+            <g:price>10204.00 BRL</g:price>
+            <g:sale_price>5700.00 BRL</g:sale_price>
+            <g:product_type>House &gt; Furniture &gt; Sofa &gt; Sofa Modular</g:product_type>
+            <g:additional_image_link>
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/83c08474deef22441e64220488fa7815.webp?v=1714142114</g:additional_image_link>
+            <g:average_review_rating>5</g:average_review_rating>
+            <g:number_of_ratings>25</g:number_of_ratings>
+            <g:number_of_reviews>25</g:number_of_reviews>
+            <g:description_html />
+            <g:video_link>
+                https://www.youtube.com/watch?v=7sykq-xZWww&amp;t=2s&amp;ab_channel=Sof%C3%A1naCaixa</g:video_link>
+            <g:group_id>MOD62</g:group_id>
+            <g:brand>Sofá na Caixa</g:brand>
+            <g:mpn>POQA9623P</g:mpn>
+            <g:size_system>BR</g:size_system>
+            <g:variant_names>Cor</g:variant_names>
+            <g:variant_values>Cinza, Linho</g:variant_values>
+            <g:color>Azul</g:color>
+            <g:google_product_category>Móveis &gt; Sofás</g:google_product_category>
+            <g:condition>new</g:condition>
+        </item>
+        <item>
+            <g:id>shopify_BR_9347085467965_48572005515581</g:id>
+            <g:title>Sofá na Caixa modular 6 lugares em Boucle - Azul</g:title>
+            <g:description>Sofá na Caixa modular 6 lugares em Boucle - Azul</g:description>
+            <g:link>
+                https://sofanacaixa.com.br/products/sofa-na-caixa-modular-6-lugares-em-boucle-puff-centro-azul</g:link>
+            <g:image_link>
+                https://cdn.shopify.com/s/files/1/0846/3741/7789/files/a6ad9d5d5ae7628cb69ccb88814d3b34.webp?v=1714142476</g:image_link>
+            <g:availability>in stock</g:availability>
+            <g:price>9245.00 BRL</g:price>
+            <g:sale_price>5549.90 BRL</g:sale_price>
+            <g:product_type>House &gt; Furniture &gt; Sofa &gt; Sofa Modular</g:product_type>
+            <g:additional_image_link />
+            <g:average_review_rating>5</g:average_review_rating>
+            <g:number_of_ratings>25</g:number_of_ratings>
+            <g:number_of_reviews>25</g:number_of_reviews>
+            <g:description_html />
+            <g:video_link>
+                https://www.youtube.com/watch?v=7sykq-xZWww&amp;t=2s&amp;ab_channel=Sof%C3%A1naCaixa</g:video_link>
+            <g:group_id>0</g:group_id>
+            <g:brand>Sofá na Caixa</g:brand>
+            <g:mpn>XYZ7890MN12O</g:mpn>
+            <g:size_system>BR</g:size_system>
+            <g:variant_names>Cor</g:variant_names>
+            <g:variant_values>Cinza, Linho</g:variant_values>
+            <g:color>Azul</g:color>
+            <g:google_product_category>Móveis &gt; Sofás</g:google_product_category>
+            <g:condition>new</g:condition>
+        </item>
+        <item>
             <g:id>shopify_BR_9030237323581_47707967783229</g:id>
             <g:title>Sofá na Caixa modular 6 lugares em Boucle - Cinza</g:title>
             <g:description>Sofá na Caixa modular 6 lugares em Boucle - Cinza</g:description>
@@ -4790,9 +5305,9 @@
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_6-lugares-2-cantos-3-puffs_ambiente-2_6e2a8aa4-b705-49d4-9264-233a06b14cdf.webp?v=1707337842,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-1_ac765172-8e7c-4523-b3c0-353299205f66.webp?v=1707337842,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-3_1b22ffa1-68ad-4fa7-a126-8a11fb304ef0.webp?v=1707337842</g:additional_image_link>
-            <g:average_review_rating>5</g:average_review_rating>
-            <g:number_of_ratings>25</g:number_of_ratings>
-            <g:number_of_reviews>25</g:number_of_reviews>
+            <g:average_review_rating>0</g:average_review_rating>
+            <g:number_of_ratings>0</g:number_of_ratings>
+            <g:number_of_reviews>0</g:number_of_reviews>
             <g:description_html> &lt;div class="dimensions-product"&gt;&lt;h4&gt;Dimensões do
                 produto&lt;/h4&gt;&lt;/div&gt;
 
@@ -4938,9 +5453,9 @@
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_6-lugares-2-cantos-2-puff-L_ambiente-2_9a64832a-7a13-477d-ba37-022baa0b9519.webp?v=1712239811,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-1_beed0a38-af26-45aa-bceb-60566c00d2da.webp?v=1712239811,
                 https://cdn.shopify.com/s/files/1/0846/3741/7789/files/sofanacaixa_produto_sofa_modular_detalhes_sala-3_89e6b765-db27-4c60-8022-8eeabb295a35.webp?v=1712239811</g:additional_image_link>
-            <g:average_review_rating>5</g:average_review_rating>
-            <g:number_of_ratings>25</g:number_of_ratings>
-            <g:number_of_reviews>25</g:number_of_reviews>
+            <g:average_review_rating>0</g:average_review_rating>
+            <g:number_of_ratings>0</g:number_of_ratings>
+            <g:number_of_reviews>0</g:number_of_reviews>
             <g:description_html> &lt;div class="dimensions-product"&gt;&lt;h4&gt;Dimensões do
                 produto&lt;/h4&gt;&lt;/div&gt;
 
