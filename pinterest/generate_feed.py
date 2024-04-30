@@ -68,20 +68,27 @@ def get_product_reviews_count(product_id):
     url = f"https://sofanacaixa.myshopify.com/admin/api/2024-01/products/{product_id}/metafields.json?key=reviews_average"
     r = requests.get(url, headers=headers)
     review_data = {}
-    if r.json()['metafields'][0]['value'] == '0':
+    
+    if 'metafields' not in r.json():
         return {
-            'reviews_average': '5',
-            'reviews_count': '25'  
-        }
+                'reviews_average': '5',
+                'reviews_count': '25'  
+            }
     else:
-        review_data['reviews_average'] = r.json()['metafields'][0]['value']
-    
-        url = f"https://sofanacaixa.myshopify.com/admin/api/2024-01/products/{product_id}/metafields.json?key=reviews_count"
-        r = requests.get(url, headers=headers)
-        review_data['reviews_count'] = r.json()['metafields'][0]['value']
+        try:
+            review_data['reviews_average'] = r.json()['metafields'][0]['value']
+        
+            url = f"https://sofanacaixa.myshopify.com/admin/api/2024-01/products/{product_id}/metafields.json?key=reviews_count"
+            r = requests.get(url, headers=headers)
+            review_data['reviews_count'] = r.json()['metafields'][0]['value']
 
-        return review_data
-    
+            return review_data
+                
+        except:
+            return {
+                'reviews_average': '5',
+                'reviews_count': '25'  
+            }
     
 def gerar_feed_xml(nome_arquivo, produtos):
     """ Gera um feed XML para o Google Merchant"""
@@ -96,7 +103,7 @@ def gerar_feed_xml(nome_arquivo, produtos):
         variants = produto['variants']
         for variant in variants:
             preco_original = variant['compare_at_price']
-            
+            print(round(float(variant['price']) * 0.95, 2))
             preco_desconto = round(float(variant['price']) * 0.95, 2)
             
             item = ET.SubElement(channel, "item")
