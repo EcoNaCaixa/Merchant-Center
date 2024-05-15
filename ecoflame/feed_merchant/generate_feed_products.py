@@ -24,11 +24,11 @@ def get_all_products_shopify():
 
     return r.json()
 
-def get_date():
-    data_atual = datetime.datetime.now()
-    data_nova = data_atual + datetime.timedelta(days=15)
-    data_nova_formatada = data_nova.strftime('%Y-%m-%dT%H:%M:%S')
-    return data_nova_formatada
+# def get_date():
+#     data_atual = datetime.datetime.now()
+#     data_nova = data_atual + datetime.timedelta(days=15)
+#     data_nova_formatada = data_nova.strftime('%Y-%m-%dT%H:%M:%S')
+#     return data_nova_formatada
 
 def gerar_feed_xml(nome_arquivo, produtos):
     """ Gera um feed XML para o Google Merchant"""
@@ -38,7 +38,7 @@ def gerar_feed_xml(nome_arquivo, produtos):
     for produto in produtos['products']:
         variant = produto['variants'][0]
         preco_original = variant['compare_at_price']
-        preco_desconto = round(float(variant['price']) * 0.95, 2)
+        preco_desconto = round(float(variant['price']) * 0.90, 2)
         
         item = ET.SubElement(channel, "item")
         ET.SubElement(item, "g:id").text = f"shopify_BR_{produto['id']}_{variant['id']}"
@@ -47,8 +47,8 @@ def gerar_feed_xml(nome_arquivo, produtos):
         
         if variant['sku']:
             data_atual_str = datetime.datetime.now().strftime('%Y-%m-%dT%H:%M:%S')
-            data_final_str = get_date()
-            ET.SubElement(item, "g:sale_price_effective_date").text = f"{data_atual_str}-0800/{data_final_str}-0800"  # Sale price effective date
+            # data_final_str = get_date()
+            # ET.SubElement(item, "g:sale_price_effective_date").text = f"{data_atual_str}-0800/{data_final_str}-0800"  # Sale price effective date
             ET.SubElement(item, "g:brand").text = "Eco Flame Garden"
             ET.SubElement(item, "g:mpn").text = variant['sku']
     
