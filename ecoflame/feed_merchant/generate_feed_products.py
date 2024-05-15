@@ -42,8 +42,12 @@ def gerar_feed_xml(nome_arquivo, produtos):
         
         item = ET.SubElement(channel, "item")
         ET.SubElement(item, "g:id").text = f"shopify_BR_{produto['id']}_{variant['id']}"
-        ET.SubElement(item, "g:price").text = f"{preco_original} BRL"
-        ET.SubElement(item, "g:sale_price").text = f"{preco_desconto:.2f} BRL"
+        if not variant['compare_at_price']:
+            ET.SubElement(item, "g:price").text = f"{preco_desconto:.2f} BRL"
+            #ET.SubElement(item, "g:sale_price").text = f"{preco_desconto:.2f} BRL"
+        else:
+            ET.SubElement(item, "g:price").text = f"{preco_original} BRL"
+            ET.SubElement(item, "g:sale_price").text = f"{preco_desconto:.2f} BRL"
         
         if variant['sku']:
             data_atual_str = datetime.datetime.now().strftime('%Y-%m-%dT%H:%M:%S')
