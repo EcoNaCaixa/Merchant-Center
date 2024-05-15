@@ -37,12 +37,16 @@ def gerar_feed_xml(nome_arquivo, produtos):
 
     for produto in produtos['products']:
         variant = produto['variants'][0]
-        preco_original = variant['compare_at_price']
+        preco_original = variant.get('compare_at_price')
+        
         preco_desconto = round(float(variant['price']) * 0.90, 2)
         
         item = ET.SubElement(channel, "item")
         ET.SubElement(item, "g:id").text = f"shopify_BR_{produto['id']}_{variant['id']}"
-        ET.SubElement(item, "g:price").text = f"{preco_original} BRL"
+        
+        if preco_original is not None:
+            ET.SubElement(item, "g:price").text = f"{preco_original} BRL"
+        
         ET.SubElement(item, "g:sale_price").text = f"{preco_desconto:.2f} BRL"
         
         if variant['sku']:
