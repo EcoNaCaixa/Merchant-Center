@@ -11,12 +11,15 @@ load_dotenv()
 YOTPO_ACCESS_TOKEN = os.getenv('YOTPO_ACCESS_TOKEN')
 YOTPO_KEY = os.getenv('YOTPO_KEY')
 YOTPO_SECRET_KEY = os.getenv('YOTPO_SECRET_KEY')
-X_Shopify_Access_Token = os.getenv("X_Shopify_Access_Token")
+X_Shopify_Access_Token = os.getenv("SHOPIFY_API_TOKEN")
 
 import requests
 
+
+products = {}
+
 def get_yotpo_token():
-    url = "https://api.yotpo.com/core/v3/stores/ij9SZZ2el2lbuzB1jSHrHDIdiskqIRqgC1XcVf7b/access_tokens"
+    url = f"https://api.yotpo.com/core/v3/stores/{YOTPO_KEY}/access_tokens"
     payload = {"secret": YOTPO_SECRET_KEY}
     headers = {"accept": "application/json", "Content-Type": "application/json"}
     response = requests.post(url, json=payload, headers=headers)
@@ -25,11 +28,19 @@ def get_yotpo_token():
 
 
 def get_product_shopify(product_id):
-    url = f"https://sofanacaixa.myshopify.com/admin/api/2024-01/products/{product_id}.json"
-    headers = {"X-Shopify-Access-Token": X_Shopify_Access_Token}
-    r = requests.get(url, headers=headers)
-    return r.json()['product']
-    
+    if product_id in products:
+        return products[product_id]
+    else:
+        try:
+            url = f"https://sofanacaixa.myshopify.com/admin/api/2024-01/products/{product_id}.json"
+            headers = {"X-Shopify-Access-Token": X_Shopify_Access_Token}
+            r = requests.get(url, headers=headers)
+            print(f"Product {product_id} fetched successfully!)")
+            products[product_id] = r.json()['product']
+            return r.json()['product']
+        except Exception as e:
+            print(f"Error fetching product {product_id}: {e}")
+            return None
 
 def yotpo_reviews_call():
     reviews_list = []
@@ -42,13 +53,13 @@ def yotpo_reviews_call():
         
         headers = {"accept": "application/json", "Content-Type": "application/json"}        
         response = requests.get(url, json=payload, headers=headers)
+        print(response.json())
         if response.json()['reviews'] == []:
             return reviews_list
         else:
             for review in response.json()['reviews']:
                 reviews_list.append(review)
             page += 1
-            time.sleep(1)
 
 
 
@@ -79,71 +90,74 @@ def generate_product_review_feed(reviews_list):
     reviews = ET.SubElement(feed, 'reviews')
 
     total = 1
+    print(len(reviews_list))
     for review in reviews_list:
         product_shopify = get_product_shopify(review['sku'])
-        review1 = ET.SubElement(reviews, 'review')
-        review_id1 = ET.SubElement(review1, 'review_id')
-        review_id1.text = str(review['id'])
-
-        reviewer1 = ET.SubElement(review1, 'reviewer')
-        reviewer_name1 = ET.SubElement(reviewer1, 'name')
-        reviewer_name1.text = review['name']
-
-        review_timestamp1 = ET.SubElement(review1, 'review_timestamp')
-        review_timestamp1.text = review['created_at']
-
-        title1 = ET.SubElement(review1, 'title')
-        title1.text = review['title']
-
-        content1 = ET.SubElement(review1, 'content')
-        content1.text = review['content']
-
-        review_url1 = ET.SubElement(review1, 'review_url')
-        review_url1.set('type', 'group')
-        review_url1.text = f"https://sofanacaixa.com.br/products/{product_shopify['handle']}"
-
-        ratings1 = ET.SubElement(review1, 'ratings')
-        overall1 = ET.SubElement(ratings1, 'overall')
-        overall1.set('min', '1')
-        overall1.set('max', '5')
-        overall1.text = str(review['score'])
-
-        products1 = ET.SubElement(review1, 'products')
-        product1 = ET.SubElement(products1, 'product')
-        product_ids1 = ET.SubElement(product1, 'product_ids')
         
-        mpns1 = ET.SubElement(product_ids1, 'mpns')
-        mpn1 = ET.SubElement(mpns1, 'mpn')
-        mpn1.text = product_shopify['variants'][0]['sku']
+        if product_shopify:
+            review1 = ET.SubElement(reviews, 'review')
+            review_id1 = ET.SubElement(review1, 'review_id')
+            review_id1.text = str(review['id'])
 
-        skus1 = ET.SubElement(product_ids1, 'skus')
-        sku1 = ET.SubElement(skus1, 'sku')
-        sku1.text = product_shopify['variants'][0]['sku']
-        
-        brands1 = ET.SubElement(product_ids1, 'brands')
-        brand1 = ET.SubElement(brands1, 'brand')
-        brand1.text = 'Sofá na Caixa'
+            reviewer1 = ET.SubElement(review1, 'reviewer')
+            reviewer_name1 = ET.SubElement(reviewer1, 'name')
+            reviewer_name1.text = review['name']
 
-        product_name1 = ET.SubElement(product1, 'product_name')
-        product_name1.text = product_shopify['title']
-        product_url1 = ET.SubElement(product1, 'product_url')
-        product_url1.text = f"https://sofanacaixa.com.br/products/{product_shopify['handle']}"
+            review_timestamp1 = ET.SubElement(review1, 'review_timestamp')
+            review_timestamp1.text = review['created_at']
 
-        is_spam1 = ET.SubElement(review1, 'is_spam')
-        is_spam1.text = 'false'
-        collection_method1 = ET.SubElement(review1, 'collection_method')
-        collection_method1.text = 'post_fulfillment'
+            title1 = ET.SubElement(review1, 'title')
+            title1.text = review['title']
 
-        total += 1
+            content1 = ET.SubElement(review1, 'content')
+            content1.text = review['content']
+
+            review_url1 = ET.SubElement(review1, 'review_url')
+            review_url1.set('type', 'group')
+            review_url1.text = f"https://sofanacaixa.com.br/products/{product_shopify['handle']}"
+
+            ratings1 = ET.SubElement(review1, 'ratings')
+            overall1 = ET.SubElement(ratings1, 'overall')
+            overall1.set('min', '1')
+            overall1.set('max', '5')
+            overall1.text = str(review['score'])
+
+            products1 = ET.SubElement(review1, 'products')
+            product1 = ET.SubElement(products1, 'product')
+            product_ids1 = ET.SubElement(product1, 'product_ids')
+            
+            mpns1 = ET.SubElement(product_ids1, 'mpns')
+            mpn1 = ET.SubElement(mpns1, 'mpn')
+            mpn1.text = product_shopify['variants'][0]['sku']
+
+            skus1 = ET.SubElement(product_ids1, 'skus')
+            sku1 = ET.SubElement(skus1, 'sku')
+            sku1.text = product_shopify['variants'][0]['sku']
+            
+            brands1 = ET.SubElement(product_ids1, 'brands')
+            brand1 = ET.SubElement(brands1, 'brand')
+            brand1.text = 'Sofá na Caixa'
+
+            product_name1 = ET.SubElement(product1, 'product_name')
+            product_name1.text = product_shopify['title']
+            product_url1 = ET.SubElement(product1, 'product_url')
+            product_url1.text = f"https://sofanacaixa.com.br/products/{product_shopify['handle']}"
+
+            is_spam1 = ET.SubElement(review1, 'is_spam')
+            is_spam1.text = 'false'
+            collection_method1 = ET.SubElement(review1, 'collection_method')
+            collection_method1.text = 'post_fulfillment'
+
+            total += 1
 
     # Create an ElementTree object
-    tree = ET.ElementTree(feed)
+    #tree = ET.ElementTree(feed)
 
     # Write the XML to a file
-    tree.write("product_reviews.xml", encoding='utf-8', xml_declaration=True)
+    #tree.write("product_reviews.xml", encoding='utf-8', xml_declaration=True)
 
     print("XML file generated successfully!")
     
-
+# get_yotpo_token()
 reviews = yotpo_reviews_call()         
 generate_product_review_feed(reviews)
