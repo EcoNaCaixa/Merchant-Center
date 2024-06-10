@@ -39,7 +39,7 @@
         <item>
             <g:id>shopify_BR_8087104684279_44342802645239</g:id>
             <g:price>25560.00 BRL</g:price>
-            <g:sale_price>19276.45 BRL</g:sale_price>
+            <g:sale_price>22942.50 BRL</g:sale_price>
         </item>
         <item>
             <g:id>shopify_BR_8087103930615_44342790488311</g:id>
@@ -80,6 +80,14 @@
             <g:sale_price>5665.80 BRL</g:sale_price>
         </item>
         <item>
+            <g:id>shopify_BR_7986363269367_44029780492535</g:id>
+            <g:price>5605.00 BRL</g:price>
+        </item>
+        <item>
+            <g:id>shopify_BR_7986363662583_44029783081207</g:id>
+            <g:price>5605.00 BRL</g:price>
+        </item>
+        <item>
             <g:id>shopify_BR_7945077850359_43915310792951</g:id>
             <g:price>18240.00 BRL</g:price>
             <g:sale_price>9071.55 BRL</g:sale_price>
@@ -103,14 +111,46 @@
             <g:id>shopify_BR_7952800907511_43936757842167</g:id>
             <g:price>13700.00 BRL</g:price>
             <g:sale_price>7427.10 BRL</g:sale_price>
-            <g:sale_price_effective_date>2024-05-15T17:07:43-0800/2024-05-30T17:07:43-0800</g:sale_price_effective_date>
+            <g:sale_price_effective_date>2024-06-10T14:30:04-0800/2024-06-25T14:30:04-0800</g:sale_price_effective_date>
             <g:brand>Eco Flame Garden</g:brand>
             <g:mpn>R1J5HP61QC</g:mpn>
+        </item>
+        <item>
+            <g:id>shopify_BR_8295709180151_44877505855735</g:id>
+            <g:price>8570.00 BRL</g:price>
+            <g:sale_price>5538.50 BRL</g:sale_price>
+            <g:sale_price_effective_date>2024-06-10T14:30:04-0800/2024-06-25T14:30:04-0800</g:sale_price_effective_date>
+            <g:brand>Eco Flame Garden</g:brand>
+            <g:mpn>UMCDN7581O-1</g:mpn>
+        </item>
+        <item>
+            <g:id>shopify_BR_8296222982391_44878970585335</g:id>
+            <g:price>9120.00 BRL</g:price>
+            <g:sale_price>6859.00 BRL</g:sale_price>
+            <g:sale_price_effective_date>2024-06-10T14:30:04-0800/2024-06-25T14:30:04-0800</g:sale_price_effective_date>
+            <g:brand>Eco Flame Garden</g:brand>
+            <g:mpn>UIMKB7062O-1</g:mpn>
+        </item>
+        <item>
+            <g:id>shopify_BR_8296182513911_44878900232439</g:id>
+            <g:price>18280.00 BRL</g:price>
+            <g:sale_price>9015.50 BRL</g:sale_price>
+            <g:sale_price_effective_date>2024-06-10T14:30:04-0800/2024-06-25T14:30:04-0800</g:sale_price_effective_date>
+            <g:brand>Eco Flame Garden</g:brand>
+            <g:mpn>EDHXU4143T-1</g:mpn>
         </item>
         <item>
             <g:id>shopify_BR_7952479617271_43935360123127</g:id>
             <g:price>20590.00 BRL</g:price>
             <g:sale_price>12515.30 BRL</g:sale_price>
+        </item>
+        <item>
+            <g:id>shopify_BR_8296231600375_44878993490167</g:id>
+            <g:price>17690.00 BRL</g:price>
+            <g:sale_price>8398.00 BRL</g:sale_price>
+            <g:sale_price_effective_date>2024-06-10T14:30:04-0800/2024-06-25T14:30:04-0800</g:sale_price_effective_date>
+            <g:brand>Eco Flame Garden</g:brand>
+            <g:mpn>DEVLM4770F-1</g:mpn>
         </item>
         <item>
             <g:id>shopify_BR_7823069020407_43520083198199</g:id>
@@ -138,6 +178,14 @@
             <g:sale_price>13591.65 BRL</g:sale_price>
         </item>
         <item>
+            <g:id>shopify_BR_8296132641015_44878808842487</g:id>
+            <g:price>13150.00 BRL</g:price>
+            <g:sale_price>8141.50 BRL</g:sale_price>
+            <g:sale_price_effective_date>2024-06-10T14:30:04-0800/2024-06-25T14:30:04-0800</g:sale_price_effective_date>
+            <g:brand>Eco Flame Garden</g:brand>
+            <g:mpn>AWAXK0007O-1</g:mpn>
+        </item>
+        <item>
             <g:id>shopify_BR_7944668741879_43914730209527</g:id>
             <g:price>29710.00 BRL</g:price>
             <g:sale_price>15646.50 BRL</g:sale_price>
@@ -145,22 +193,22 @@
         <item>
             <g:id>shopify_BR_8149156593911_44554132619511</g:id>
             <g:price>13110.00 BRL</g:price>
-            <g:sale_price>8783.70 BRL</g:sale_price>
+            <g:sale_price>8782.75 BRL</g:sale_price>
         </item>
         <item>
             <g:id>shopify_BR_8149161967863_44554221125879</g:id>
             <g:price>13110.00 BRL</g:price>
-            <g:sale_price>6452.40 BRL</g:sale_price>
+            <g:sale_price>7381.50 BRL</g:sale_price>
         </item>
         <item>
             <g:id>shopify_BR_8149165342967_44554241114359</g:id>
             <g:price>13110.00 BRL</g:price>
-            <g:sale_price>6452.40 BRL</g:sale_price>
+            <g:sale_price>7381.50 BRL</g:sale_price>
         </item>
         <item>
             <g:id>shopify_BR_8149158953207_44554200252663</g:id>
             <g:price>13110.00 BRL</g:price>
-            <g:sale_price>8161.45 BRL</g:sale_price>
+            <g:sale_price>8160.50 BRL</g:sale_price>
         </item>
         <item>
             <g:id>shopify_BR_7905564590327_44320990920951</g:id>
@@ -206,7 +254,7 @@
             <g:id>shopify_BR_7960390631671_43953698406647</g:id>
             <g:price>3990.00 BRL</g:price>
             <g:sale_price>3125.50 BRL</g:sale_price>
-            <g:sale_price_effective_date>2024-05-15T17:07:43-0800/2024-05-30T17:07:43-0800</g:sale_price_effective_date>
+            <g:sale_price_effective_date>2024-06-10T14:30:04-0800/2024-06-25T14:30:04-0800</g:sale_price_effective_date>
             <g:brand>Eco Flame Garden</g:brand>
             <g:mpn>CT060</g:mpn>
         </item>
@@ -256,9 +304,9 @@
             <g:sale_price>3023.85 BRL</g:sale_price>
         </item>
         <item>
-            <g:id>shopify_BR_7821936328951_43771991425271</g:id>
-            <g:price>2290.00 BRL</g:price>
-            <g:sale_price>1849.65 BRL</g:sale_price>
+            <g:id>shopify_BR_7823374450935_43520861110519</g:id>
+            <g:price>10560.00 BRL</g:price>
+            <g:sale_price>9286.25 BRL</g:sale_price>
         </item>
         <item>
             <g:id>shopify_BR_7823406661879_43520929235191</g:id>
@@ -279,6 +327,11 @@
             <g:id>shopify_BR_7823128297719_43520169345271</g:id>
             <g:price>4560.00 BRL</g:price>
             <g:sale_price>3904.50 BRL</g:sale_price>
+        </item>
+        <item>
+            <g:id>shopify_BR_7821936328951_43771991425271</g:id>
+            <g:price>2290.00 BRL</g:price>
+            <g:sale_price>1849.65 BRL</g:sale_price>
         </item>
         <item>
             <g:id>shopify_BR_7823385493751_43520879624439</g:id>
