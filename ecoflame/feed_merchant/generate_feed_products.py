@@ -36,26 +36,19 @@ def gerar_feed_xml(nome_arquivo, produtos):
     channel = ET.SubElement(root, "channel")
 
     for produto in produtos['products']:
-        variant = produto['variants'][0]
-        preco_original = variant['compare_at_price']
-        preco_desconto = round(float(variant['price']) * 0.95, 2)
+        for variant in produto['variants']:
+            preco_original = variant['compare_at_price']
+            preco_desconto = round(float(variant['price']) * 0.95, 2)
+            
+            item = ET.SubElement(channel, "item")
+            ET.SubElement(item, "g:id").text = f"shopify_BR_{produto['id']}_{variant['id']}"
+            if not variant['compare_at_price']:
+                ET.SubElement(item, "g:price").text = f"{preco_desconto:.2f} BRL"
+                #ET.SubElement(item, "g:sale_price").text = f"{preco_desconto:.2f} BRL"
+            else:
+                ET.SubElement(item, "g:price").text = f"{preco_original} BRL"
+                ET.SubElement(item, "g:sale_price").text = f"{preco_desconto:.2f} BRL"
         
-        item = ET.SubElement(channel, "item")
-        ET.SubElement(item, "g:id").text = f"shopify_BR_{produto['id']}_{variant['id']}"
-        if not variant['compare_at_price']:
-            ET.SubElement(item, "g:price").text = f"{preco_desconto:.2f} BRL"
-            #ET.SubElement(item, "g:sale_price").text = f"{preco_desconto:.2f} BRL"
-        else:
-            ET.SubElement(item, "g:price").text = f"{preco_original} BRL"
-            ET.SubElement(item, "g:sale_price").text = f"{preco_desconto:.2f} BRL"
-        
-        if variant['sku']:
-            data_atual_str = datetime.datetime.now().strftime('%Y-%m-%dT%H:%M:%S')
-            data_final_str = get_date()
-            ET.SubElement(item, "g:sale_price_effective_date").text = f"{data_atual_str}-0800/{data_final_str}-0800"  # Sale price effective date
-            ET.SubElement(item, "g:brand").text = "Eco Flame Garden"
-            ET.SubElement(item, "g:mpn").text = variant['sku']
-    
     tree = ET.ElementTree(root)
     tree.write(nome_arquivo, encoding='utf-8', xml_declaration=True)
 
